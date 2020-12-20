@@ -1,10 +1,10 @@
-<h1 align="center">Wedding Website</h1> 
+<h1 align="center">Inspiry - Tokyo</h1> 
 
 ![Mockup devices](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/devices.png?raw=true "Mockup devices")
 
-<p align="center"><strong>Milestone 1 project - Full Stack Web Developer course - Code Institute</strong></p>
+<p align="center"><strong>Milestone 2 project - Full Stack Web Developer course - Code Institute</strong></p>
 
-This website will work as the invitation and information page for a wedding. The point of having a website such as this instead of a classic letter invitation is for the guests/users to have easy access to all the info they need and to be able to RSVP directly via a form. It is also a much better way for the couple getting married to keep track on RSVP's as well as other requests that might come in.
+This website is developed for visitors to Tokyo who are not sure of where to go for food, drinks, party or sightseeing. It will act as a travel guide with a minimalistic approach where the tips you receive are directly from local experts. All you have to do is press a few buttons, add a few filters and then you will have a suggestion for you.
 
 [Link to deployed website!](https://rudberga.github.io/CI-MS1-wedding-website/index.html)
  
