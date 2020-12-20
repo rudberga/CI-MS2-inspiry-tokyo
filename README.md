@@ -14,19 +14,19 @@ This website is developed for visitors to Tokyo who are not sure of where to go 
 
 See below user stories:
 
-> *- "As a guest, I expect to find all the practical information I need, so I can prepare for the wedding"*
+> *- "As a visitor of the website, I expect to find a minimalistic user friendly layout, so I can easily find suggestion on what to do"*
 
-> *- "As a guest, I expect that I will be able to smoothly RSVP to the invitation, so that I do not have to send it by letter or email"*
+> *- "As a visitor of the website, I expect to find many inspiring destinations, so I will be able to make my trip more enjoyable"*
 
-> *- "As a guest, I expect to find more information about the couple who are getting married, so I can learn more about them"*
+> *- ""*
 
-> *- "As a guest, I expect to find contact information or social links to the couple, so I can contact them with questions"*
+> *- ""*
 
-> *- "As a guest, I expect to find direct links to the venues, so I can check them out before the wedding"*
+> *- ""*
 
-> *- "As a guest, I expect to find instructions on how to get to the venue, so I can plan for the trip"*
+> *- ""*
 
-> *- "As a guest, I expect to find a schedule of the day with times, so I can get the idea of how long the event will be"*
+> *- ""*
 
 ### Strategy
 
