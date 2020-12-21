@@ -48,6 +48,12 @@ Project goals:
 
 [Wireframe](assets/docs/CI-MS2-inspiry-tokyo-wireframe.pdf)
 
+4 pages included in the wireframe which are:
+- Landing page
+- "Eat" step 1
+- "Eat" step 2
+- "Eat" result
+
 ### Surface
 
 #### Main inspiration
