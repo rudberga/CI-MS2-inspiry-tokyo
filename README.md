@@ -48,6 +48,7 @@ The features of this website will let the users:
 
 ### Structure
 
+The design and layout of this website will be intentionally minimalistic and "simple". The reason for this is to stand out from other services such as travel guides which usually overwhelm you with information. The user will basically be able to get a suggestion after a few clicks.
 
 ### Skeleton
 
