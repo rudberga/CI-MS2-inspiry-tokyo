@@ -4,7 +4,7 @@
 
 <p align="center"><strong>Milestone 2 project - Full Stack Web Developer course - Code Institute</strong></p>
 
-This website is developed for visitors to Tokyo who are not sure of where to go for food, drinks, party or sightseeing. It will act as a travel guide with a minimalistic approach where the tips you receive are directly from local experts. All you have to do is press a few buttons, add a few filters and then you will have a suggestion for you.
+This website is developed for visitors to Tokyo who are not sure of where to go for food, drinks, party or sightseeing. It will act as a travel guide with a minimalistic approach where the tips you receive are directly from local experts. All you have to do is press a few buttons and you will have a suggestion for you.
 
 [Link to deployed website will be here!](https://github.com/rudberga/CI-MS2-inspiry-tokyo)
  
@@ -14,11 +14,11 @@ This website is developed for visitors to Tokyo who are not sure of where to go 
 
 See below user stories:
 
-> *- "As a visitor of the website, I expect to find a minimalistic user friendly layout, so I can easily find suggestion on what to do"*
+> *- "As a visitor of the website, I expect to find a minimalistic user friendly layout, so I can easily find suggestion on what to do without too much hassle"*
 
-> *- "As a visitor of the website, I expect to find many inspiring destinations, so I will be able to make my trip more enjoyable"*
+> *- "As a visitor of the website, I expect to find many inspiring destinations, so I will be able to make my trip more enjoyable with variety"*
 
-> *- ""*
+> *- "As a visitor of the website, I expect to find all the relevant information about the destination suggested to me, so I do not need to do any extra research"*
 
 > *- ""*
 
