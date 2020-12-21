@@ -59,9 +59,19 @@ Project goals:
 ## Features
 
  
-### Existing Features
+### Existing Features (under development)
+
+- **Choice of activity**: allows user to choose what they want to do through buttons 'Eat', 'Drink' or 'Party'
+- **Social links**: in the footer you will find the icons for Inspiry's different social platforms
+- **Maps**: google maps window with the location comes up with the end result automatically
+- **Direct links**: direct links to the suggested location comes up with the end result automatically
+- **Basic information**: basic information such as opening hours and prices comes up with the end result automatically
+- **Go back**: button shaped as a backward arrow in the bottom left corner in order to go back and change choice
 
 ### Features Left to Implement
+
+- **Create profile**: user can sign up to the website and create their own user profile
+- **Favorite list**: user can save his/her favorite locations to a favorite list
 
 ## Technologies Used
 
