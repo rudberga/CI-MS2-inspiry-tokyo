@@ -44,7 +44,7 @@ Project goals:
 
 ### Skeleton
 
-[Wireframe]()
+[Wireframe](assets/docs/CI-MS2-inspiry-tokyo-wireframe.pdf)
 
 ### Surface
 
