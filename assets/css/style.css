@@ -45,6 +45,14 @@ html, body {
     font-weight: 400;
 }
 
+.text-welcome-btn {
+    text-align: center;
+    margin-top: 90px;
+    font-family: 'Rubik', sans-serif;
+    color: #fff;
+    font-weight: 400;
+}
+
 /*--------------------------------- Footer */
 
 .page-footer {
