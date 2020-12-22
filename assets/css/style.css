@@ -56,6 +56,11 @@ html, body {
     color: #888888;
 }
 
+@media only screen and (max-width: 600px) {
+    .socials-footer {
+        text-align: center;
+}
+
 /*CREDIT for Hover: https://ianlunn.github.io/Hover/#effects*/
 
 .hvr-fade {
