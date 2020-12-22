@@ -22,11 +22,6 @@ html, body {
     max-width: 16em;
 }
 
-@media only screen and (max-width: 600px) {
-    .socials-footer {
-        text-align: center;
-}
-
 .logo-heart {
     position:absolute;
     right:30px;
@@ -61,15 +56,9 @@ html, body {
     color: #888888;
 }
 
-@media only screen and (max-width: 600px) {
-    .socials-footer {
-        text-align: center;
-}
-
 /*CREDIT for Hover: https://ianlunn.github.io/Hover/#effects*/
 
 .hvr-fade {
-    
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
     box-shadow: 0 0 1px rgba(0, 0, 0, 0);
@@ -78,7 +67,15 @@ html, body {
     -webkit-transition-property: color, background-color;
     transition-property: color, background-color;
 }
+
 .hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
     background-color: rgba(255, 255, 255, 0);
     color: #000;
+}
+
+/*--------------------------------- Media queries */
+
+@media only screen and (max-width: 600px) {
+    .socials-footer {
+        text-align: center;
 }
