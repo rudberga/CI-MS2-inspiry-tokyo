@@ -1,3 +1,6 @@
+/*--------------------------------- Background images */
+/* CREDIT HERE */
+
 .background {
     background: url(https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/tokyo-background.jpg?raw=true) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -5,6 +8,8 @@
     -o-background-size: cover;
     background-size: cover;
 }
+
+/*--------------------------------- Inspiry logo */
 
 .logo {
     position:absolute;
