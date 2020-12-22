@@ -22,6 +22,11 @@ html, body {
     max-width: 16em;
 }
 
+@media only screen and (max-width: 600px) {
+    .socials-footer {
+        text-align: center;
+}
+
 .logo-heart {
     position:absolute;
     right:30px;
