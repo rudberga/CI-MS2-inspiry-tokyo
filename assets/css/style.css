@@ -1,6 +1,6 @@
 /*--------------------------------- Fonts */
 
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
 
 /*--------------------------------- Background */
 
@@ -40,6 +40,9 @@ html, body {
 .text-welcome {
     text-align: center;
     margin-top: 90px;
+    font-family: 'Rubik', sans-serif;
+    color: #fff;
+    font-weight: 400;
 }
 
 /*--------------------------------- Footer */
