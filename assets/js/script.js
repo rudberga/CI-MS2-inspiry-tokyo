@@ -1,3 +1,5 @@
+//CREDIT base of modal: https://medium.com/@nerdplusdog/a-how-to-guide-for-modal-boxes-with-javascript-html-and-css-6a49d063987e
+
 let modalBtn = document.getElementById("modal-btn")
 let modal = document.querySelector(".modal")
 let closeBtn = document.querySelector(".close-btn")
