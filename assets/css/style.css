@@ -45,13 +45,12 @@ html, body {
     font-weight: 400;
 }
 
-/*.text-welcome-btn {
+.text-welcome-btn {
     text-align: center;
     margin-top: 50px;
     font-family: 'Rubik', sans-serif;
-    color: #fff;
     font-weight: 400;
-}*/
+}
 
 .welcome-btn-img {
     max-width: 85%;
@@ -64,15 +63,6 @@ html, body {
     text-align: center;
     margin-top: 50px;
     font-family: 'Rubik', sans-serif;
-}
-
-.btn-light {
-    position:absolute;
-    bottom:50px;
-    right:140px;
-    width:100px;
-    height:30px;
-    background-color: rgba(255, 255, 255, 0.788)
 }
 
 /*--------------------------------- Footer */
