@@ -148,6 +148,7 @@ html, body {
     animation-name: animatetop;
     animation-duration: 0.4s
   }
+  
   .close-btn {
     float: right; 
     color: lightgray; 
