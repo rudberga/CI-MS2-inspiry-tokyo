@@ -1,3 +1,4 @@
+//--------------------------------- Modal //
 //CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
 
 $(document).ready(function() {
