@@ -164,8 +164,17 @@ html, body {
 
   .modal-sm-btn {
     margin-top: 40px;
+    margin-bottom: 140px;
     height: 40px;
     width: 140px;
+  }
+
+  .next-btn {
+    color: lightgray; 
+    font-size: 2em;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
   }
 
   .close-btn {
@@ -176,6 +185,10 @@ html, body {
     margin-top: -10px;
   }
   .close-btn:hover {
+    color: darkgray;
+  }
+
+  .next-btn:hover {
     color: darkgray;
   }
   @-webkit-keyframes animatetop {
