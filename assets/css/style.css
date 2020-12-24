@@ -156,9 +156,16 @@ html, body {
     text-align: center;
   }
 
-  .modal-content button {
+  .modal-lg-btn {
     margin-top: 40px;
-    background-color: green;
+    height: 70px;
+    width: 150px;
+  }
+
+  .modal-sm-btn {
+    margin-top: 40px;
+    height: 40px;
+    width: 140px;
   }
 
   .close-btn {
