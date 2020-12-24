@@ -156,6 +156,11 @@ html, body {
     text-align: center;
   }
 
+  .modal-content button {
+    margin-top: 40px;
+    background-color: green;
+  }
+
   .close-btn {
     float: right; 
     color: lightgray; 
