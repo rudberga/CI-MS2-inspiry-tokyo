@@ -249,6 +249,7 @@ html, body {
   border-top: none;
   background-color: #ddd;
   font-family: 'Rubik', sans-serif;
+  margin-bottom: 70px;
 }
 
 /*--------------------------------- Footer */
@@ -275,6 +276,23 @@ html, body {
     margin-left: 7px;
     margin-top: 5px;
     color: #888888;
+}
+
+/*--------------------------------- Top lists map */
+
+.map-responsive {
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
 }
 
 /*--------------------------------- Hover effects */
