@@ -1,0 +1,1 @@
+1. It is possible to go through the EAT modal without picking an option and you get an empty result.
