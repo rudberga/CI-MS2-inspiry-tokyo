@@ -14,7 +14,7 @@
 
 <body class="background">
     <section>
-        <div class="row">
+        <div class="row" id="top-page">
             <div>
                 <img class="logo" src="assets/img/inspiry-logo.png" alt="inspiry logo">
             </div>
@@ -189,8 +189,15 @@
             </div>
         </div>
     </section>
+    <section>
+        <div class="text-center">
+            <a href="#topList"><button type="button" class="btn-toplist shadow"> <strong>TOP 3</strong>  <i class="fas fa-medal"></i></button></a>
+        </div>
+    </section>
+
     <!-- CREDIT base of tabs: https://www.w3schools.com/howto/howto_js_tabs.asp -->
     <section class="container">
+        <a id="topList"></a>
         <!-- Top lists tabs -->
         <div class="tab">
             <button class="tablinks" onclick="openCategory(event, 'EAT')"><i class="fas fa-utensils"></i> Top 3</button>
@@ -205,8 +212,7 @@
                 <ul>
                     <div class="row">
                         <div class="col-12 col-md-6">
-                            <h5>Uobei</h5>
-                            <p>Style of food: Sushi</p>
+                            <h5>Uobei - Sushi</h5>
                             <p>Opening hours: 17:30 - 22:00</p>
                             <p>Website: <a href="https://hakushu-tokyo.business.site/">
                             <i class="fas fa-desktop"></i></a></p>

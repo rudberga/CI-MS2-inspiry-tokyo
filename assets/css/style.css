@@ -209,7 +209,19 @@ html, body {
   box-shadow: none !important
 }
 
-/*--------------------------------- Tabs */
+/*--------------------------------- Top list */
+
+.btn-toplist {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-family: 'Rubik', sans-serif;
+  background-color: rgba(255, 255, 255, 0.062);
+  border: 3px solid #fff;
+  color: #fff;
+  border-radius: 14px;
+  padding: 8px 20px;
+  font-size: 17px;
+}
 
 /* Style the tab */
 .tab {
