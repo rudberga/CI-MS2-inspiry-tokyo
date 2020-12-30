@@ -146,6 +146,20 @@ $(document).ready(function () {
 		website:'https://saido.tokyo/',
 		address:'Meguro-ku, Jiyūgaoka, 2 Chome−15-10, Tokyo, Japan, 152-0035',
 		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=saido%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-online.net">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Ballon',
+		hours:'11:00 - 18:00',
+		website:'https://www.ballontokyo.com/',
+		address:'Nakameguro, 3 Chome-2, Komazawa Dori, Tokyo, Japan, 153-0061',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Japan%2C%20Tokyo%2C%20Meguro%20City%2C%20Nakameguro%2C%203%20Chome%E2%88%922%E2%88%9219%20Ballon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Falafel brothers',
+		hours:'11:00 - 19:30',
+		website:'https://www.falafelbrothers.jp/',
+		address:'1F Kadogan Bldg, 5-1-10 Roppongi, Minato, Tokyo, Japan, 106-0032',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=%20FALAFEL%20BROTHERS%7C%E3%83%95%E3%82%A1%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20Japan%2C%20Tokyo%2C%20Shibuya%20City%2C%20Hiroo1%20Chome%E2%88%921%E2%88%9236%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
 	}
 ];
 
