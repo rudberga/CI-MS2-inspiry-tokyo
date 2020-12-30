@@ -18,15 +18,11 @@ See below user stories:
 
 > *- "As a visitor of the website, I expect to find many inspiring destinations, so I will be able to make my trip more enjoyable with variety"*
 
-> *- "As a visitor of the website, I expect to find all the relevant information about the destination suggested to me, so I do not need to do any extra research"*
+> *- "As a visitor of the website, I expect to find basic practical information about the destination suggested to me, so I do not need to do any extra research"*
 
-> *- ""*
+> *- "As a visitor of the website, I expect to be able to easily find the social media pages of the website, so I can follow them or check information"*
 
-> *- ""*
-
-> *- ""*
-
-> *- ""*
+> *- "As a visitor of the website, I expect to be able to answer questions to get my suggestion, in order for the suggestion to fit me"*
 
 ### Strategy
 
@@ -71,7 +67,7 @@ The design and layout of this website will be intentionally minimalistic and "si
 ## Features
 
  
-### Existing Features (under development)
+### Existing Features
 
 - **Choice of activity**: allows user to choose what they want to do through buttons 'Eat', 'Drink' or 'Party'
 - **Social links**: in the footer you will find the icons for Inspiry's different social platforms
@@ -79,6 +75,7 @@ The design and layout of this website will be intentionally minimalistic and "si
 - **Direct links**: direct links to the suggested location comes up with the end result automatically
 - **Basic information**: basic information such as opening hours and prices comes up with the end result automatically
 - **Go back**: button shaped as a backward arrow in the bottom left corner in order to go back and change choice
+- **Decision based result**: getting a result which is based on the questions answered
 
 ### Features Left to Implement
 
