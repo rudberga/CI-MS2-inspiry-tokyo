@@ -279,6 +279,7 @@ html, body {
 }
 
 /*--------------------------------- Top lists map */
+/*CREDIT for responsiveness: https://blog.duda.co/responsive-google-maps-for-your-website */
 
 .map-responsive {
   overflow:hidden;
@@ -296,7 +297,6 @@ html, body {
 }
 
 /*--------------------------------- Hover effects */
-
 /*CREDIT for Hover over social links and heart icon: https://ianlunn.github.io/Hover/#effects*/
 
 .hvr-fade {
