@@ -163,3 +163,20 @@ function containing(arr ,key){
 	}
 	return false;
 }
+
+function suggest(index){
+	let numbers = suggestions[index].split(",");
+	for(let i=0;i<numbers.length;i++){
+		if(numbers[i] != "" && containing(suggested,numbers[i]) == false){
+			suggested.push(Number(numbers[i]));
+		}
+	}
+	if(index == "Low" || index == "Medium" || index == "High"){
+		var random = suggested[Math.floor(Math.random() * suggested.length)] - 1;
+		document.getElementById("name").innerHTML = "<b>Name : </b>" + restaurants[random].name;
+		document.getElementById("hours").innerHTML = "<b>Opening hours : </b>" + restaurants[random].hours;
+		document.getElementById("website").innerHTML = "<b>Website : </b>" + restaurants[random].website;
+		document.getElementById("address").innerHTML = "<b>Address : </b>" + restaurants[random].address;
+		document.getElementById("map").innerHTML = restaurants[random].map;
+	}
+}
