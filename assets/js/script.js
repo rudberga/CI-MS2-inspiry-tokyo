@@ -125,4 +125,19 @@ $(document).ready(function () {
 
    //--------------------------------- MODAL results! TESTING//
 
-   
+   var restaurants = [
+	{
+		name:'Hakushu Teppanyaki',
+		hours:'17:30 - 22:00',
+		website:'https://hakushutokyo.business.site/',
+		address:'17-10 Sakuragaokacho MCD Bldg. B1F, Shibuya 150-0031 Tokyo prefektur',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Hakushu%20Teppanyaki%2C%20%EF%BC%AD%EF%BC%A3%EF%BC%A4%E3%83%93%E3%83%AB%20B1F%2017%20Sakuragaokacho%2C%20Shibuya%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Uobei',
+		hours:'11:00 - 22:00',
+		website:'https://www.genkisushi.co.jp/en/',
+		address:'1F The 6th Central Bld.2-29-11 Dogenzaka,Shib uyaku, Tokyo 150-00 43',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Uobei%2C%20%E7%AC%AC%E5%85%AD%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%93%E3%83%AB%201F%202%20Chome-29%20Dogenzaka%2C%20Shibuya%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	}
+];
