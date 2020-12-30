@@ -78,6 +78,7 @@ The design and layout of this website will be intentionally minimalistic and "si
 - **Basic information**: basic information such as opening hours and prices comes up with the end result automatically
 - **Go back**: button shaped as a backward arrow in the bottom left corner in order to go back and change choice
 - **Decision based result**: getting a result which is based on the questions answered
+- **Top 3 list**: getting the months top 3 list of every category, chosen by Inspiry staff
 
 ### Features Left to Implement
 
