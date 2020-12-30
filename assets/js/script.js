@@ -152,3 +152,14 @@ var suggestions = {
 	Medium:"",
 	High:"1"
 }
+
+var suggested = [];
+
+function containing(arr ,key){
+	for(let i=0;i<arr.length;i++){
+		if(arr[i] == key){
+			return true;
+		}
+	}
+	return false;
+}
