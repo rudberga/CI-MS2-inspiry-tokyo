@@ -102,7 +102,7 @@ $(document).ready(function () {
   //--------------------------------- Tabs //
   //CREDIT tabs: https://www.w3schools.com/howto/howto_js_tabs.asp //
 
-  function openCity(evt, cityName) {
+  function openCategory(evt, cityName) {
 	// Declare all variables
 	var i, tabcontent, tablinks;
   
