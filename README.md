@@ -24,6 +24,8 @@ See below user stories:
 
 > *- "As a visitor of the website, I expect to be able to answer questions to get my suggestion, in order for the suggestion to fit me"*
 
+> *- "As a visitor of the website, I expect to be able to find a toplist of the most popular locations, so that I can get an overview of places as well"*
+
 ### Strategy
 
 The main goal of this project is to develop a user friendly website for people who are traveling to Tokyo and in the need of some inspiration. This website will act as a platform they can visit either before traveling to help with the planning or use as a tool while in Tokyo to get some inspiration for the upcoming evening out. The website will have locations which are recommended only by local experts, therefore help users to be able to experience the "real" Tokyo.
