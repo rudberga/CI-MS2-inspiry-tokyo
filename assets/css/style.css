@@ -65,8 +65,8 @@ html, body {
     font-family: 'Rubik', sans-serif;
 }
 
-.text-tokyo{
-  background-color: #e74c3c;
+.text-tokyo {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #e74c3c 50%);
 }
 
 /*--------------------------------- Welcome cards */
