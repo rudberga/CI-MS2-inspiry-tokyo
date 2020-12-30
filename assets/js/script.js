@@ -137,20 +137,27 @@ $(document).ready(function () {
 		name:'Uobei',
 		hours:'11:00 - 22:00',
 		website:'https://www.genkisushi.co.jp/en/',
-		address:'1F The 6th Central Bld.2-29-11 Dogenzaka,Shib uyaku, Tokyo 150-00 43',
+		address:'1F The 6th Central Bld.2-29-11 Dogenzaka,Shibuyaku, Tokyo 150-00 43',
 		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Uobei%2C%20%E7%AC%AC%E5%85%AD%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%93%E3%83%AB%201F%202%20Chome-29%20Dogenzaka%2C%20Shibuya%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Saido',
+		hours:'12:00 - 22:00',
+		website:'https://saido.tokyo/',
+		address:'Meguro-ku, Jiyūgaoka, 2 Chome−15-10, Tokyo, Japan, 152-0035',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=saido%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-online.net">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
 	}
 ];
 
 var suggestions = {
-	Japanese:"1,2",
+	Japanese:"1,2,3",
 	NonJapanese:"",
 	Meat:"1,2",
-	Vegetarian:"2",
+	Vegetarian:"2,3",
 	Vegan:"",
 	Low:"2",
-	Medium:"",
-	High:"1"
+	Medium:"3",
+	High:"1,3"
 }
 
 var suggested = [];
