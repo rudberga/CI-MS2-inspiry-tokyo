@@ -216,6 +216,7 @@ html, body {
   overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
+  margin-top: 70px;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -227,6 +228,7 @@ html, body {
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
+  font-family: 'Rubik', sans-serif;
 }
 
 /* Change background color of buttons on hover */
@@ -245,6 +247,8 @@ html, body {
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
+  background-color: #ddd;
+  font-family: 'Rubik', sans-serif;
 }
 
 /*--------------------------------- Footer */
@@ -312,6 +316,11 @@ html, body {
 @media only screen and (max-width: 600px) {
     .socials-footer {
         text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .text-welcome {
+      margin-top: 150px;
 }
 
 @media all and (max-width: 600px) {
