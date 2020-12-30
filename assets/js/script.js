@@ -123,7 +123,7 @@ $(document).ready(function () {
 	evt.currentTarget.className += " active";
   }
 
-   //--------------------------------- MODAL results! TESTING//
+   //--------------------------------- Modal results//
 
    var restaurants = [
 	{
