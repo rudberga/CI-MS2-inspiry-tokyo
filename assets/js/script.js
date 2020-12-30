@@ -174,6 +174,7 @@ var suggestions = {
 	High:"1,3"
 }
 
+var inputs = [];
 var suggested = [];
 
 function containing(arr ,key){
