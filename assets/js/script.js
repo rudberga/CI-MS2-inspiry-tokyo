@@ -165,12 +165,12 @@ $(document).ready(function () {
 
 var suggestions = {
 	Japanese:"1,2,3",
-	NonJapanese:"",
+	NonJapanese:"4,5",
 	Meat:"1,2",
-	Vegetarian:"2,3",
-	Vegan:"",
-	Low:"2",
-	Medium:"3",
+	Vegetarian:"2,3,4,5",
+	Vegan:"3,4,5",
+	Low:"2,4",
+	Medium:"3,5",
 	High:"1,3"
 }
 
