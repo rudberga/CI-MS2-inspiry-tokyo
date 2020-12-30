@@ -65,6 +65,10 @@ html, body {
     font-family: 'Rubik', sans-serif;
 }
 
+.text-tokyo{
+  background-color: #e74c3c;
+}
+
 /*--------------------------------- Welcome cards */
 /* CREDIT for cards: https://codepen.io/abhishek747/pen/BbWKVa */
 .cards-list {
@@ -226,9 +230,10 @@ html, body {
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  border: 2px solid #ccc;
+  background-color: #f1f1f1ab;
   margin-top: 70px;
+  border-radius: 14px;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -257,17 +262,19 @@ html, body {
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
+  border: 5px solid #ccc;
   border-top: none;
-  background-color: #ddd;
+  background-color: #f1f1f163;
   font-family: 'Rubik', sans-serif;
   margin-bottom: 70px;
+  border-radius: 14px;
+  color: #fff;
 }
 
 .btn-top-page {
   font-size: 50px;
   background-color: rgba(255, 255, 255, 0);
-  color: #fff;
+  color: rgba(255, 255, 255, 0.884);
   margin-top: 40px;
   margin-bottom: 40px;
   border: 0;
