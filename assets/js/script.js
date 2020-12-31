@@ -123,6 +123,9 @@ $(document).ready(function () {
 	evt.currentTarget.className += " active";
   }
 
+  	document.getElementById("defaultOpen").click();
+
+
    //--------------------------------- Modal results//
 
    var restaurants = [
