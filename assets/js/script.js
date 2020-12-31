@@ -1,6 +1,5 @@
-//--------------------------------- Modal //
-//CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
 
+//--------------------------------- Result //
 //Map codes from : https://www.embedgooglemap.net/
 var restaurants = [
 	{
@@ -62,6 +61,9 @@ function containing(arr ,key){
 	}
 	return false;
 }
+
+//--------------------------------- Modal //
+//CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
 
 $(document).ready(function() {
   prep_modal();
