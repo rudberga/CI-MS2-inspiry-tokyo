@@ -6,7 +6,7 @@
 
 This website is developed for visitors to Tokyo who are not sure of where to go for food, drinks, party or sightseeing. It will act as a travel guide with a minimalistic approach where the tips you receive are directly from local experts. All you have to do is press a few buttons and you will have a suggestion for you.
 
-[Link to deployed website will be here!](https://github.com/rudberga/CI-MS2-inspiry-tokyo)
+[Link to deployed website!](https://rudberga.github.io/CI-MS2-inspiry-tokyo/)
  
 ## UX
 
@@ -167,7 +167,7 @@ In order to deploy my website I used GitHub pages. The deployment was made from 
  3. Press **settings**
  4. Scroll down to GitHub Pages section
  5. Choose the "master branch" under **Source** and "/ (root)" under **Select folder**
- 6. Press **save** and the website is deployed under the domain INSERT DOMAIN HERE AFTER DEPLOYMENT
+ 6. Press **save** and the website is deployed under the domain https://rudberga.github.io/CI-MS2-inspiry-tokyo/
 
 ### Running my project locally
 
