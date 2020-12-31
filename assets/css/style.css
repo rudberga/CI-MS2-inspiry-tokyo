@@ -138,6 +138,11 @@ html, body {
 
 /*--------------------------------- Modal */
 /*CREDIT for base modal: https://codepen.io/Ayn_/pen/vmVKZV */
+
+.modal-content {
+  background-color: rgb(255, 255, 255);
+}
+
 .modal-content h3 {
   margin-top: 20px;
   margin-bottom: 60px;
@@ -235,60 +240,6 @@ html, body {
   font-size: 17px;
 }
 
-/* Style the tab */
-.tab {
-  overflow: hidden;
-  border: 2px solid #ccc;
-  background-color: #f1f1f1ab;
-  margin-top: 70px;
-  border-radius: 14px;
-}
-
-/* Style the buttons that are used to open the tab content */
-.tab button {
-  background-color: #f1f1f100;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 14px 16px;
-  transition: 0.3s;
-  font-family: 'Rubik', sans-serif;
-  width: 25%;
-}
-
-/* Change background color of buttons on hover */
-.tab button:hover {
-  background-color: rgba(221, 221, 221, 0.753);
-}
-
-/* Create an active/current tablink class */
-.tab button.active {
-  background-color: rgba(255, 255, 255, 0.678);
-}
-
-/* Style the tab content */
-.tabcontent {
-  display: none;
-  padding: 6px 12px;
-  border: 5px solid #ccc;
-  border-top: none;
-  background-color: rgba(0, 0, 0, 0.534);
-  font-family: 'Rubik', sans-serif;
-  margin-bottom: 70px;
-  border-radius: 14px;
-  color: #fff;
-}
-
-.tabcontent {
-  animation: fadeEffect 1s; /* Fading effect takes 1 second */
-}
-
-/* Go from zero to full opacity */
-@keyframes fadeEffect {
-  from {opacity: 0;}
-  to {opacity: 1;}
-}
-
 .btn-top-page {
   font-size: 50px;
   background-color: rgba(255, 255, 255, 0);
@@ -301,6 +252,10 @@ html, body {
 .btn-toplist-esc {
   font-size: 30px;
   cursor: pointer;
+}
+
+.top-list-section {
+  background-color: #ffffff;
 }
 
 /*--------------------------------- Footer */
