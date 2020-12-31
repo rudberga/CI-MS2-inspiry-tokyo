@@ -187,18 +187,34 @@ function containing(arr ,key){
 }
 
 function suggest(index){
+	document.getElementById("name").innerHTML = "";
+	document.getElementById("hours").innerHTML = "";
+	document.getElementById("website").innerHTML = "";
+	document.getElementById("address").innerHTML = "";
+	document.getElementById("map").innerHTML = ""; 
 	let numbers = suggestions[index].split(",");
 	for(let i=0;i<numbers.length;i++){
-		if(numbers[i] != "" && containing(suggested,numbers[i]) == false){
-			suggested.push(Number(numbers[i]));
-		}
+		inputs.push(Number(numbers[i]));
 	}
 	if(index == "Low" || index == "Medium" || index == "High"){
+		for(let i=0;i<inputs.length;i++){
+			let count = 0;
+			for(let j=0;j<inputs.length;j++){
+				if(inputs[i] == inputs[j]){
+					count++;
+				}
+			}
+			if(count == 3 && containing(suggested,inputs[i]) == false){
+				suggested.push(inputs[i]);
+			}
+		}
 		var random = suggested[Math.floor(Math.random() * suggested.length)] - 1;
 		document.getElementById("name").innerHTML = "<b>Name : </b>" + restaurants[random].name;
 		document.getElementById("hours").innerHTML = "<b>Opening hours : </b>" + restaurants[random].hours;
 		document.getElementById("website").innerHTML = "<b>Website : </b>" + restaurants[random].website;
 		document.getElementById("address").innerHTML = "<b>Address : </b>" + restaurants[random].address;
 		document.getElementById("map").innerHTML = restaurants[random].map;
+		inputs = [];
+		suggested = [];
 	}
 }
