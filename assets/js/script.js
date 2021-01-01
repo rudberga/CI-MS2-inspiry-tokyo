@@ -85,11 +85,11 @@ var restaurants = [
 
 var suggestions = {
 	Japanese:"1,2,3,7,8,9,10",
-	NonJapanese:"4,5,6",
-	Meat:"1,2,6,7,8,9",
+	NonJapanese:"4,5,6,11",
+	Meat:"1,2,6,7,8,9,11",
 	Vegetarian:"2,3,4,5,6,10",
 	Vegan:"3,4,5,10",
-	Low:"2,4,7,8",
+	Low:"2,4,7,8,11",
 	Medium:"3,5,8",
 	High:"1,3,6,9,10"
 }
