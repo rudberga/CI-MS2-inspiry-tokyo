@@ -272,6 +272,7 @@ html, body {
 .tab-content {
   display: none;
   background-color: #fff;
+  padding-bottom: 4em;
 }
 
 .left-content {
@@ -321,6 +322,12 @@ html, body {
   background-color: #ffffff;
 }
 
+.img-tokyo {
+  width: 100%;
+  height: auto;
+  margin-top: 30px;
+}
+
 /*--------------------------------- Footer */
 
 .page-footer {
@@ -347,11 +354,7 @@ html, body {
     color: #888888;
 }
 
-.img-tokyo {
-  width: 70%;
-  margin-bottom: 100px;
-  margin-top: 30px;
-}
+
 
 /*--------------------------------- Top lists map */
 /*CREDIT for responsiveness: https://blog.duda.co/responsive-google-maps-for-your-website */
@@ -421,4 +424,9 @@ html, body {
       /* On small screens, we are no longer using row direction but column */
       flex-direction: column;
     }
+  }
+
+  @media only screen and (max-width: 600px) {
+    .right-content {
+        margin-top: 10px;
   }
