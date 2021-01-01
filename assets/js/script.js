@@ -1,7 +1,9 @@
+//--------------------------------- Modal //
+//CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
 
-//--------------------------------- Result //
 //Map codes from : https://www.embedgooglemap.net/
-var restaurants = [
+
+var restuarants = [
 	{
 		name:'Hakushu Teppanyaki',
 		hours:'17:30 - 22:00',
@@ -62,9 +64,6 @@ function containing(arr ,key){
 	return false;
 }
 
-//--------------------------------- Modal //
-//CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
-
 $(document).ready(function() {
   prep_modal();
 });
@@ -113,7 +112,16 @@ function prep_modal()
 
         if(page_track == pages.length-1)
         {
-          $(element).find("form").submit();
+			page_track = -1;
+			$(n_button).text("Next");
+			$('#myModal').modal('hide');
+			document.getElementById("name").innerHTML = "";
+			document.getElementById("hours").innerHTML = "";
+			document.getElementById("website").innerHTML = "";
+			document.getElementById("address").innerHTML = "";
+			document.getElementById("map").innerHTML = "";
+			inputs = [];
+			suggested = []; 
         }
 
     		if(page_track < pages.length-1)
@@ -164,11 +172,6 @@ $(document).ready(function () {
   });
 
 function suggest(index){
-	document.getElementById("name").innerHTML = "";
-	document.getElementById("hours").innerHTML = "";
-	document.getElementById("website").innerHTML = "";
-	document.getElementById("address").innerHTML = "";
-	document.getElementById("map").innerHTML = ""; 
 	let numbers = suggestions[index].split(",");
 	for(let i=0;i<numbers.length;i++){
 		inputs.push(Number(numbers[i]));
@@ -186,13 +189,11 @@ function suggest(index){
 			}
 		}
 		var random = suggested[Math.floor(Math.random() * suggested.length)] - 1;
-		document.getElementById("name").innerHTML = "<b>Name : </b>" + restaurants[random].name;
-		document.getElementById("hours").innerHTML = "<b>Opening hours : </b>" + restaurants[random].hours;
-		document.getElementById("website").innerHTML = "<b>Website : </b>" + restaurants[random].website;
-		document.getElementById("address").innerHTML = "<b>Address : </b>" + restaurants[random].address;
-		document.getElementById("map").innerHTML = restaurants[random].map;
-		inputs = [];
-		suggested = [];
+		document.getElementById("name").innerHTML = "<b>Name : </b>" + restuarants[random].name;
+		document.getElementById("hours").innerHTML = "<b>Opening hours : </b>" + restuarants[random].hours;
+		document.getElementById("website").innerHTML = "<b>Website : </b>" + restuarants[random].website;
+		document.getElementById("address").innerHTML = "<b>Address : </b>" + restuarants[random].address;
+		document.getElementById("map").innerHTML = restuarants[random].map;
 	}
 }
 
