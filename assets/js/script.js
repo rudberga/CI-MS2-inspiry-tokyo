@@ -73,6 +73,13 @@ var restaurants = [
 		website:'https://www.ain-soph.jp/',
 		address:'4 Chome-12-1 Ginza, Chuo City, Tokyo 104-0061',
 		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=ain%20soph%20ginza&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Burgers Tokyo',
+		hours:'11:00 - 21:00',
+		website:'https://www.burgerstokyo.com/',
+		address:'2 Chome-34-7 Kitazawa, Setagaya City, Tokyo 155-0031',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=burgers%20tokyo%20setagaya&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
 	}
 ];
 
