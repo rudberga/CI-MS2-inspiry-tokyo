@@ -38,18 +38,53 @@ var restaurants = [
 		website:'https://www.falafelbrothers.jp/',
 		address:'1F Kadogan Bldg, 5-1-10 Roppongi, Minato, Tokyo, Japan, 106-0032',
 		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=%20FALAFEL%20BROTHERS%7C%E3%83%95%E3%82%A1%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20Japan%2C%20Tokyo%2C%20Shibuya%20City%2C%20Hiroo1%20Chome%E2%88%921%E2%88%9236%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Hacienda Del Cielo',
+		hours:'11:30 - 23:00',
+		website:'https://www.huge.co.jp/restaurant/modern-mexicano/hacienda',
+		address:'150-0033 Tokyo, Shibuya City, Sarugakucho, 10−1, Mansard Daikanyama, 9F',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=hacienda%20del%20cielo%20daikanyama&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Muginae',
+		hours:'11:00 - 15:30',
+		website:'https://twitter.com/Akihiro_Fukaya/',
+		address:'6 Chome-11-１０ Minamiōi, Shinagawa-ku Tōkyō-to 140-0013, Japan',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=muginae%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Kyourakutei',
+		hours:'11:30 - 20:30',
+		website:'http://kyourakutei.com/',
+		address:'162-0825 Tokyo, Shinjuku City, Kagurazaka, 3 Chome−6',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=kyourakutei%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Narisawa',
+		hours:'12:00 - 22:00',
+		website:'http://www.narisawa-yoshihiro.com/',
+		address:'2 Chome-6-15 Minamiaoyama, Minato City, Tokyo 107-0062',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=narisawa%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
+	},
+	{
+		name:'Ain Soph.',
+		hours:'11:30 - 21:00',
+		website:'https://www.ain-soph.jp/',
+		address:'4 Chome-12-1 Ginza, Chuo City, Tokyo 104-0061',
+		map:'<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=ain%20soph%20ginza&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>'
 	}
 ];
 
 var suggestions = {
-	Japanese:"1,2,3",
-	NonJapanese:"4,5",
-	Meat:"1,2",
-	Vegetarian:"2,3,4,5",
-	Vegan:"3,4,5",
-	Low:"2,4",
-	Medium:"3,5",
-	High:"1,3"
+	Japanese:"1,2,3,7,8,9,10",
+	NonJapanese:"4,5,6",
+	Meat:"1,2,6,7,8,9",
+	Vegetarian:"2,3,4,5,6,10",
+	Vegan:"3,4,5,10",
+	Low:"2,4,7,8",
+	Medium:"3,5,8",
+	High:"1,3,6,9,10"
 }
 
 var inputs = [];
