@@ -149,7 +149,7 @@ function prep_modal()
 
     		if(page_track == pages.length-2)
     		{
-    			$(n_button).text("Submit");
+    			$(n_button).text("Finish");
     		}
 
         if(page_track == pages.length-1)
