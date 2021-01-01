@@ -3,7 +3,7 @@
 
 //Map codes from : https://www.embedgooglemap.net/
 
-var restuarants = [
+var restaurants = [
 	{
 		name:'Hakushu Teppanyaki',
 		hours:'17:30 - 22:00',
@@ -189,11 +189,11 @@ function suggest(index){
 			}
 		}
 		var random = suggested[Math.floor(Math.random() * suggested.length)] - 1;
-		document.getElementById("name").innerHTML = "<b>Name : </b>" + restuarants[random].name;
-		document.getElementById("hours").innerHTML = "<b>Opening hours : </b>" + restuarants[random].hours;
-		document.getElementById("website").innerHTML = "<b>Website : </b>" + restuarants[random].website;
-		document.getElementById("address").innerHTML = "<b>Address : </b>" + restuarants[random].address;
-		document.getElementById("map").innerHTML = restuarants[random].map;
+		document.getElementById("name").innerHTML = "<b>Name : </b>" + restaurants[random].name;
+		document.getElementById("hours").innerHTML = "<b>Opening hours : </b>" + restaurants[random].hours;
+		document.getElementById("website").innerHTML = "<b>Website : </b>" + restaurants[random].website;
+		document.getElementById("address").innerHTML = "<b>Address : </b>" + restaurants[random].address;
+		document.getElementById("map").innerHTML = restaurants[random].map;
 	}
 }
 
