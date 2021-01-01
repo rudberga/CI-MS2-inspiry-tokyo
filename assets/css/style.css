@@ -286,6 +286,7 @@ html, body {
 .right-content {
   padding-left: 4rem;
   padding-top: 4rem;
+  margin-top: 30px;
 }
 
 .img-custwidth {
@@ -347,6 +348,12 @@ html, body {
     margin-left: 7px;
     margin-top: 5px;
     color: #888888;
+}
+
+.img-tokyo {
+  width: 70%;
+  margin-bottom: 100px;
+  margin-top: 30px;
 }
 
 /*--------------------------------- Top lists map */
