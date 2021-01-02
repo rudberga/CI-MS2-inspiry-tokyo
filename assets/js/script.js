@@ -135,13 +135,13 @@ function prep_modal()
 
     	var b_button = document.createElement("button");
                 b_button.setAttribute("type","button");
-          			b_button.setAttribute("class","btn btn-primary");
+          			b_button.setAttribute("class","btn btn-light");
           			b_button.setAttribute("style","display: none;");
-          			b_button.innerHTML = "Back";
+          			b_button.innerHTML = "Back"; 
 
     	var n_button = document.createElement("button");
                 n_button.setAttribute("type","button");
-          			n_button.setAttribute("class","btn btn-primary");
+          			n_button.setAttribute("class","btn btn-light");
           			n_button.innerHTML = "Next";
 
     	$(this).find('.modal-footer').append(b_button).append(n_button);
