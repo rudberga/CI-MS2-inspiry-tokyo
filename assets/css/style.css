@@ -482,11 +482,13 @@ html, body {
 @media only screen and (max-width: 600px) {
     .socials-footer {
         text-align: center;
+  }
 }
 
 @media only screen and (max-width: 600px) {
   .text-welcome {
       margin-top: 150px;
+  }
 }
 
 @media all and (max-width: 600px) {
@@ -499,4 +501,11 @@ html, body {
   @media only screen and (max-width: 600px) {
     .right-content {
         margin-top: 10px;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .downArrow {
+      display: none;
+    }
   }
