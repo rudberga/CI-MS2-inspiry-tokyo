@@ -315,8 +315,8 @@ html, body {
 }
 
 .heading-design:hover {
-  background-color: #ff9800;
-  border-bottom: solid 1px #ff9800;
+  background-color: #4f97c7;
+  border-bottom: solid 1px #4f97c7;
 }
 
 .heading-prog {
@@ -345,8 +345,8 @@ html, body {
 }
 
 .heading-music:hover {
-  background-color: #ff6f61;
-  border-bottom: solid 1px #ff6f61;
+  background-color: #e74c3c;
+  border-bottom: solid 1px #e74c3c;
 }
 
 .tab-content {
