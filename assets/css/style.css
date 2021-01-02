@@ -154,11 +154,6 @@ html, body {
   text-align: center;
 }
 
-.btn-primary {
-  background-color: #42A5F5 !important;
-  border-color: #42A5F5 !important
-}
-
 .cursor-pointer {
   cursor: pointer;
   color: #42A5F5
