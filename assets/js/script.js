@@ -267,3 +267,7 @@ let musicLinkEl = document.getElementById("SupportLink");
 designLinkEl.addEventListener("click", function(){openTab("Design")}, false);
 progLinkEl.addEventListener("click", function(){openTab("Programming")}, false);
 musicLinkEl.addEventListener("click", function(){openTab("Support")}, false);
+
+// Scrolling fade in
+// CREDIT fade in: https://michalsnik.github.io/aos/
+AOS.init();

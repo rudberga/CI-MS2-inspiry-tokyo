@@ -80,6 +80,7 @@ html, body {
     flex-wrap: wrap;
     background-color: rgba(255, 255, 255, 0.651);
     margin-top: 50px;
+    margin-bottom: 10em;
   }
   
   .card {
