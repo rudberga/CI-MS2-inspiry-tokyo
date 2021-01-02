@@ -80,7 +80,7 @@ html, body {
     flex-wrap: wrap;
     background-color: rgba(255, 255, 255, 0.651);
     margin-top: 50px;
-    margin-bottom: 10em;
+    margin-bottom: 4.5em;
   }
   
   .card {
@@ -230,11 +230,13 @@ html, body {
 
 /*--------------------------------- Down arrow */
 /*CREDIT: https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation */
+
 .downArrow{
 	bottom: 100%;
   left: 50%;
   color: #fff;
   font-size: 40px;
+  margin-bottom: 2em;
 }
 .bounce {
 	-moz-animation: bounce 3s infinite;
