@@ -238,6 +238,13 @@ html, body {
   font-size: 40px;
   margin-bottom: 2em;
 }
+
+.downArrow button {
+  background-color: rgba(255, 255, 255, 0);
+  color: #ffffff;
+  border: 0;
+}
+
 .bounce {
 	-moz-animation: bounce 3s infinite;
 	-webkit-animation: bounce 3s infinite;
