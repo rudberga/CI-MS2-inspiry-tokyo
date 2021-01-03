@@ -53,11 +53,12 @@ The design and layout of this website will be intentionally minimalistic and "si
 
 [Wireframe](assets/docs/CI-MS2-inspiry-tokyo-wireframe.pdf)
 
-4 pages included in the wireframe which are:
+5 pages included in the wireframe which are:
 - Landing page
-- "Eat" step 1
-- "Eat" step 2
-- "Eat" result
+- Step 1
+- Step 2
+- Step 3
+- Result
 
 ### Surface
 
