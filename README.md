@@ -15,17 +15,19 @@ This website is developed for visitors to Tokyo who are not sure of where to go 
 
 See below user stories:
 
-> *- "As a visitor of the website, I expect to find a minimalistic user friendly layout, so I can easily find suggestion on what to do without too much hassle"*
+> *- "As a visitor of the website, I expect to find a minimalistic user friendly layout, so I can easily find suggestion on where to eat without too much hassle"*
 
-> *- "As a visitor of the website, I expect to find many inspiring destinations, so I will be able to make my trip more enjoyable with variety"*
+> *- "As a visitor of the website, I expect to find many inspiring restaurants, so I will be able to make my trip more enjoyable with a variety"*
 
-> *- "As a visitor of the website, I expect to find basic practical information about the destination suggested to me, so I do not need to do any extra research"*
+> *- "As a visitor of the website, I expect to find basic practical information about the destination suggested to me, so I do not need to do much extra research"*
 
-> *- "As a visitor of the website, I expect to be able to easily find the social media pages of the website, so I can follow them or check information"*
+> *- "As a visitor of the website, I expect to be able to easily find the social media pages of the website in the footer, so I can follow them or check company information"*
 
-> *- "As a visitor of the website, I expect to be able to answer questions to get my suggestion, in order for the suggestion to fit me"*
+> *- "As a visitor of the website, I expect to be able to answer questions that work as a filter in the process, in order for the suggestion to fit me"*
 
-> *- "As a visitor of the website, I expect to be able to find a toplist of the most popular locations, so that I can get an overview of places as well"*
+> *- "As a visitor of the website, I expect to be able to find a toplist of the most popular locations right now, so that I can get a simple overview"*
+
+> *- "As a visitor of the website, I expect to be able to find a some basic information about Tokyo and the food scene, so that I can get even more excited about using the service"*
 
 ### Strategy
 
