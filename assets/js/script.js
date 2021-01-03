@@ -100,8 +100,9 @@ var restaurants = [
   //11
   {
     name: "Burgers Tokyo",
+    cuisine: "Burgers",
     hours: "11:00 - 21:00",
-    website: "https://www.burgerstokyo.com/",
+    website: "<a href='https://www.burgerstokyo.com/' target='_blank'> Website </a>",
     address: "2 Chome-34-7 Kitazawa, Setagaya City, Tokyo 155-0031",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=burgers%20tokyo%20setagaya&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -270,13 +271,15 @@ function suggest(index) {
     }
     var random = suggested[Math.floor(Math.random() * suggested.length)] - 1;
     document.getElementById("name").innerHTML =
-      "<b>Name : </b>" + restaurants[random].name;
+      "<strong></strong>" + restaurants[random].name;
+    document.getElementById("cuisine").innerHTML =
+      "<i class='fas fa-utensils'></i>" + " " + restaurants[random].cuisine;  
     document.getElementById("hours").innerHTML =
-      "<b>Opening hours : </b>" + restaurants[random].hours;
+      "<i class='far fa-clock'></i>" + " " + restaurants[random].hours;
     document.getElementById("website").innerHTML =
-      "<b>Website : </b>" + restaurants[random].website;
+      "<i class='fas fa-laptop'></i>" + " " + restaurants[random].website;
     document.getElementById("address").innerHTML =
-      "<b>Address : </b>" + restaurants[random].address;
+      "<i class='fas fa-map-marker-alt'></i>" + " " + restaurants[random].address;
     document.getElementById("map").innerHTML = restaurants[random].map;
   }
 }

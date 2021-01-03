@@ -144,6 +144,26 @@ html, body {
 /*--------------------------------- Modal */
 /*CREDIT for base modal: https://codepen.io/Ayn_/pen/vmVKZV */
 
+#cuisine i {
+  font-size: 20px;
+}
+
+#website i {
+  font-size: 20px;
+}
+
+#website a {
+  color: #000;
+}
+
+#hours i {
+  font-size: 20px;
+}
+
+#address i {
+  font-size: 20px;
+}
+
 .modal-content {
   background-color: rgb(255, 255, 255);
 }
