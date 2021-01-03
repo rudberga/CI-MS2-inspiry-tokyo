@@ -144,6 +144,10 @@ html, body {
 /*--------------------------------- Modal */
 /*CREDIT for base modal: https://codepen.io/Ayn_/pen/vmVKZV */
 
+#name {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #e74c3c 50%);
+}
+
 #cuisine i {
   font-size: 20px;
 }
@@ -166,6 +170,7 @@ html, body {
 
 .modal-content {
   background-color: rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
 }
 
 .modal-content h3 {

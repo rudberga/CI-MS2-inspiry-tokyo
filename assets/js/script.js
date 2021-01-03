@@ -99,7 +99,7 @@ var restaurants = [
   },
   //11
   {
-    name: "Burgers Tokyo",
+    name: "BURGERS TOKYO.",
     cuisine: "Burgers",
     hours: "11:00 - 21:00",
     website: "<a href='https://www.burgerstokyo.com/' target='_blank'> Website </a>",
