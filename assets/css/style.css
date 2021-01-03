@@ -349,6 +349,7 @@ html, body {
   padding: 2rem;
   transition: background-color 0.5s ease;
   font-family: 'Roboto', sans-serif;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
 .heading-design:hover {
@@ -364,6 +365,7 @@ html, body {
   transition: background-color 0.5s ease;
   transition: color 0.5s ease;
   font-family: 'Roboto', sans-serif;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
 .heading-prog:hover {
@@ -379,6 +381,7 @@ html, body {
   padding: 2rem;
   transition: background-color 0.5s ease;
   font-family: 'Roboto', sans-serif;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
 .heading-music:hover {
@@ -589,5 +592,11 @@ html, body {
   @media (min-width: 768px) and (max-width: 1024px) {
     .downArrow {
       display: none;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .toplist-narisawa {
+        margin-top: -10rem;
     }
   }
