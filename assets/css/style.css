@@ -49,6 +49,15 @@ html, body {
     text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
+.text-welcome-bottom {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-weight: 400;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+}
+
 .text-welcome-btn {
     text-align: center;
     margin-top: 50px;
@@ -59,14 +68,6 @@ html, body {
 .welcome-btn-img {
     max-width: 85%;
     max-height: 85%;
-}
-
-.text-welcome-btn {
-    position:relative;
-    display:inline-block;
-    text-align: center;
-    margin-top: 50px;
-    font-family: 'Roboto', sans-serif;
 }
 
 .text-tokyo {
@@ -88,9 +89,9 @@ html, body {
   
   .card {
     margin: 30px auto;
-    width: 275px;
+    width: 250px;
     height: 120px;
-    border-radius: 5px;
+    border-radius: 14px;
     box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.068), -5px -5px 30px 7px rgba(0, 0, 0, 0.062);
     cursor: pointer;
     transition: 0.4s;
@@ -115,6 +116,21 @@ html, body {
     margin-right: 60px;
     margin-left: 60px;
   }
+
+  .card_title .fa-heart {
+    color: #e74c3c;
+    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  }
+
+  .card_title .fa-utensils {
+    color: #afafaf;
+    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  }
+
+  .card_title .fa-question {
+    color: #4f97c7;
+    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  }
   
   .card .card_title {
     text-align: center;
@@ -123,7 +139,8 @@ html, body {
     font-size: 30px;
     margin-top: -80px;
     height: 40px;
-    background-color: #e74c3c;
+    background-color: ;
+    color: black;
   }
   
   .card:hover {
