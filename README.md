@@ -81,13 +81,13 @@ I have decided to only use the font **Roboto** in this website, however with dif
 
 This is the playful "pop"-version of the font that has text shadow added to it. It makes the website look a little bit more fun when you open it.
 
-![Roboto playful](https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/roboto-font.png?raw=true "Roboto playful font")
+![Roboto playful](https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/roboto-playful.png?raw=true "Roboto playful font")
 
 ##### Flat
 
 This is the flat version which is extra bold for extra power in the message, which is stylish and minimal for the longer texts and information, also used in the modal for clarity.
 
-![Roboto flat](https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/roboto-font.png?raw=true "Roboto flat font")
+![Roboto flat](https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/roboto-flat.png?raw=true "Roboto flat font")
 
 #### Colors
 
