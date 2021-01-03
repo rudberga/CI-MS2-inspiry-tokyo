@@ -44,9 +44,11 @@ Project goals:
 
 The features of this website will let the users:
 
-- Find a location where they can eat, drink or party easily through a few steps
+- Find a location where they can eat easily through a few steps
 - Find a location based on their budget and preferences
 - Get access to direct links and information about the suggested location before making a decision
+- Get an overview of Tokyo and its food scene 
+- See a top list with the current top restaurants
 
 ### Structure
 
