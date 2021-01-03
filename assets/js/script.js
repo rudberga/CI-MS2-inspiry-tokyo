@@ -9,7 +9,7 @@ var restaurants = [
     name: "HAKUSHU TEPPANYAKI.",
     cuisine: "Steak",
     hours: "17:30 - 22:00",
-    website: "https://hakushutokyo.business.site/",
+    website: "<a href='https://hakushu-tokyo.business.site/' target='_blank'> Website </a>",
     address:
       "17-10 Sakuragaokacho MCD Bldg. B1F, Shibuya 150-0031 Tokyo prefektur",
     map:
@@ -20,7 +20,7 @@ var restaurants = [
     name: "UOBEI.",
     cuisine: "Sushi",
     hours: "11:00 - 22:00",
-    website: "https://www.genkisushi.co.jp/en/",
+    website: "<a href='https://www.genkisushi.co.jp/en/' target='_blank'> Website </a>",
     address:
       "1F The 6th Central Bld.2-29-11 Dogenzaka,Shib uyaku, Tokyo 150-00 43",
     map:
@@ -31,7 +31,7 @@ var restaurants = [
     name: "SAIDO.",
     cuisine: "Japanese fusion vegan",
     hours: "12:00 - 15:00<br>18:00 - 22:00",
-    website: "https://saido.tokyo/",
+    website: "<a href='https://saido.tokyo/' target='_blank'> Website </a>",
     address: "Meguro-ku, Jiyūgaoka, 2 Chome−15-10, Tokyo, Japan, 152-0035",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Saido%2C%202%20Chome-15-10%20Jiyugaoka%2C%20Meguro%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -41,7 +41,7 @@ var restaurants = [
     name: "BALLON.",
     cuisine: "Falafel",
     hours: "11:00 - 18:00",
-    website: "https://www.ballontokyo.com/",
+    website: "<a href='https://www.ballontokyo.com/' target='_blank'> Website </a>",
     address: "Nakameguro, 3 Chome-2, Komazawa Dori, Tokyo, Japan, 153-0061",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Japan%2C%20Tokyo%2C%20Meguro%20City%2C%20Nakameguro%2C%203%20Chome%E2%88%922%E2%88%9219%20Ballon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -51,7 +51,7 @@ var restaurants = [
     name: "FALAFEL BROTHERS.",
     cuisine: "Falafel",
     hours: "11:00 - 19:30",
-    website: "https://www.falafelbrothers.jp/",
+    website: "<a href='https://www.falafelbrothers.jp/' target='_blank'> Website </a>",
     address: "1F Kadogan Bldg, 5-1-10 Roppongi, Minato, Tokyo, Japan, 106-0032",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=%20FALAFEL%20BROTHERS%7C%E3%83%95%E3%82%A1%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20Japan%2C%20Tokyo%2C%20Shibuya%20City%2C%20Hiroo1%20Chome%E2%88%921%E2%88%9236%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -61,7 +61,7 @@ var restaurants = [
     name: "HACIENDA DEL CIELO.",
     cuisine: "Mexican",
     hours: "11:30 - 23:00",
-    website: "https://www.huge.co.jp/restaurant/modern-mexicano/hacienda",
+    website: "<a href='https://www.huge.co.jp/restaurant/modern-mexicano/hacienda' target='_blank'> Website </a>",
     address:
       "150-0033 Tokyo, Shibuya City, Sarugakucho, 10−1, Mansard Daikanyama, 9F",
     map:
@@ -72,7 +72,7 @@ var restaurants = [
     name: "MUGINAE.",
     cuisine: "Ramen",
     hours: "11:00 - 15:30",
-    website: "https://twitter.com/Akihiro_Fukaya/",
+    website: "<a href='https://twitter.com/Akihiro_Fukaya/' target='_blank'> Website </a>",
     address: "6 Chome-11-１０ Minamiōi, Shinagawa-ku Tōkyō-to 140-0013, Japan",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=muginae%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -82,7 +82,7 @@ var restaurants = [
     name: "KYOURAKUTEI.",
     cuisine: "Soba",
     hours: "11:30 - 20:30",
-    website: "http://kyourakutei.com/",
+    website: "<a href='http://kyourakutei.com/' target='_blank'> Website </a>",
     address: "162-0825 Tokyo, Shinjuku City, Kagurazaka, 3 Chome−6",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=kyourakutei%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -92,7 +92,7 @@ var restaurants = [
     name: "NARISAWA.",
     cuisine: "Japanese fine dining",
     hours: "12:00 - 22:00",
-    website: "http://www.narisawa-yoshihiro.com/",
+    website: "<a href='http://www.narisawa-yoshihiro.com/' target='_blank'> Website </a>",
     address: "2 Chome-6-15 Minamiaoyama, Minato City, Tokyo 107-0062",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=narisawa%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
@@ -102,7 +102,7 @@ var restaurants = [
     name: "AIN SOPH.",
     cuisine: "Vegetables",
     hours: "11:30 - 21:00",
-    website: "https://www.ain-soph.jp/",
+    website: "<a href='https://www.ain-soph.jp/' target='_blank'> Website </a>",
     address: "4 Chome-12-1 Ginza, Chuo City, Tokyo 104-0061",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=ain%20soph%20ginza&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
