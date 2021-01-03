@@ -31,13 +31,14 @@ See below user stories:
 
 ### Strategy
 
-The main goal of this project is to develop a user friendly website for people who are traveling to Tokyo and in the need of some inspiration. This website will act as a platform they can visit either before traveling to help with the planning or use as a tool while in Tokyo to get some inspiration for the upcoming evening out. The website will have locations which are recommended only by local experts, therefore help users to be able to experience the "real" Tokyo.
+The main goal of this project is to develop a user friendly website for people who are traveling to Tokyo and in the need of some inspiration on places to eat. This website will act as a platform they can visit either before traveling to help with the planning or use as a tool while in Tokyo to get some inspiration for the upcoming evening out. The website will have locations which are recommended by local experts, therefore help users to be able to experience the "real" Tokyo.
 
 Project goals: 
 
 - Design a website in a minimalistic, modern and user friendly approach
 - Present a smooth experience when choosing the different options which will lead to the final suggestion
 - Present valuable suggestions to users, not just picking random places from a guide book
+- Present short and inspiring information about Tokyo and the food scene itself
 
 ### Scope
 
