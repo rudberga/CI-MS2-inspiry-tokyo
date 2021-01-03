@@ -73,6 +73,10 @@ My main inspiration for the looks of this website is the architecture of Tokyo d
 
 #### Fonts
 
+I have decided to only use the font **Roboto** in this website, however with different kind of looks. One more playful with a text shadow, and one which is bold and flat for the more stylish element.
+
+![Roboto](https://github.com/rudberga/CI-MS1-wedding-website/blob/master/assets/img/parisienne.png?raw=true "Roboto font")
+
 #### Colors
 
 ## Features
