@@ -475,7 +475,7 @@ html, body {
 
 .hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
     background-color: rgba(255, 255, 255, 0);
-    color: #000;
+    color: #e74c3c;
 }
 
 .hvr-fade-heart {
