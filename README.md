@@ -1,6 +1,7 @@
 <h1 align="center">Inspiry - Tokyo</h1> 
 
-## PICTURE OF MOCKUP DEVICES HERE
+![Mockup devices](https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/mockup-devices.png?raw=true "Mockup devices")
+
 
 <p align="center"><strong>Milestone 2 project - Full Stack Web Developer course - Code Institute</strong></p>
 
