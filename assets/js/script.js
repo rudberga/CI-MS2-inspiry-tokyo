@@ -6,7 +6,8 @@
 var restaurants = [
   //1
   {
-    name: "Hakushu Teppanyaki",
+    name: "HAKUSHU TEPPANYAKI.",
+    cuisine: "Steak",
     hours: "17:30 - 22:00",
     website: "https://hakushutokyo.business.site/",
     address:
@@ -16,7 +17,8 @@ var restaurants = [
   },
   //2
   {
-    name: "Uobei",
+    name: "UOBEI.",
+    cuisine: "Sushi",
     hours: "11:00 - 22:00",
     website: "https://www.genkisushi.co.jp/en/",
     address:
@@ -26,7 +28,8 @@ var restaurants = [
   },
   //3
   {
-    name: "Saido",
+    name: "SAIDO.",
+    cuisine: "Japanese fusion vegan",
     hours: "12:00 - 15:00<br>18:00 - 22:00",
     website: "https://saido.tokyo/",
     address: "Meguro-ku, Jiyūgaoka, 2 Chome−15-10, Tokyo, Japan, 152-0035",
@@ -35,7 +38,8 @@ var restaurants = [
   },
   //4
   {
-    name: "Ballon",
+    name: "BALLON.",
+    cuisine: "Falafel",
     hours: "11:00 - 18:00",
     website: "https://www.ballontokyo.com/",
     address: "Nakameguro, 3 Chome-2, Komazawa Dori, Tokyo, Japan, 153-0061",
@@ -44,7 +48,8 @@ var restaurants = [
   },
   //5
   {
-    name: "Falafel brothers",
+    name: "FALAFEL BROTHERS.",
+    cuisine: "Falafel",
     hours: "11:00 - 19:30",
     website: "https://www.falafelbrothers.jp/",
     address: "1F Kadogan Bldg, 5-1-10 Roppongi, Minato, Tokyo, Japan, 106-0032",
@@ -53,7 +58,8 @@ var restaurants = [
   },
   //6
   {
-    name: "Hacienda Del Cielo",
+    name: "HACIENDA DEL CIELO.",
+    cuisine: "Mexican",
     hours: "11:30 - 23:00",
     website: "https://www.huge.co.jp/restaurant/modern-mexicano/hacienda",
     address:
@@ -63,7 +69,8 @@ var restaurants = [
   },
   //7
   {
-    name: "Muginae",
+    name: "MUGINAE.",
+    cuisine: "Ramen",
     hours: "11:00 - 15:30",
     website: "https://twitter.com/Akihiro_Fukaya/",
     address: "6 Chome-11-１０ Minamiōi, Shinagawa-ku Tōkyō-to 140-0013, Japan",
@@ -72,7 +79,8 @@ var restaurants = [
   },
   //8
   {
-    name: "Kyourakutei",
+    name: "KYOURAKUTEI.",
+    cuisine: "Soba",
     hours: "11:30 - 20:30",
     website: "http://kyourakutei.com/",
     address: "162-0825 Tokyo, Shinjuku City, Kagurazaka, 3 Chome−6",
@@ -81,7 +89,8 @@ var restaurants = [
   },
   //9
   {
-    name: "Narisawa",
+    name: "NARISAWA.",
+    cuisine: "Japanese fine dining",
     hours: "12:00 - 22:00",
     website: "http://www.narisawa-yoshihiro.com/",
     address: "2 Chome-6-15 Minamiaoyama, Minato City, Tokyo 107-0062",
@@ -90,7 +99,8 @@ var restaurants = [
   },
   //10
   {
-    name: "Ain Soph.",
+    name: "AIN SOPH.",
+    cuisine: "Vegetables",
     hours: "11:30 - 21:00",
     website: "https://www.ain-soph.jp/",
     address: "4 Chome-12-1 Ginza, Chuo City, Tokyo 104-0061",
