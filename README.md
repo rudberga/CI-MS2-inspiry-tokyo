@@ -69,6 +69,8 @@ The design and layout of this website will be intentionally minimalistic and "si
 
 #### Main inspiration
  
+My main inspiration for the looks of this website is the architecture of Tokyo during dawn or night. It is very clean, modern and minimalistic.
+
 #### Fonts
 
 #### Colors
