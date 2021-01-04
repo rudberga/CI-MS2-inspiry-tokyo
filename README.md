@@ -107,11 +107,11 @@ I have therefore focused on below colors:
  
 ### Existing Features
 
-- **Choice of activity**: allows user to choose what they want to do through buttons 'Eat', 'Drink' or 'Party'
+- **Help with activity**: helps user to choose where they want to go to eat through a press of button
 - **Social links**: in the footer you will find the icons for Inspiry's different social platforms
 - **Maps**: google maps window with the location comes up with the end result automatically
 - **Direct links**: direct links to the suggested location comes up with the end result automatically
-- **Basic information**: basic information such as opening hours and prices comes up with the end result automatically
+- **Basic information**: basic information such as opening hours and address comes up with the end result automatically
 - **Go back**: button shaped as a backward arrow in the bottom left corner in order to go back and change choice
 - **Decision based result**: getting a result which is based on the questions answered
 - **Top 3 list**: getting the months top 3 list of every category, chosen by Inspiry staff
@@ -120,6 +120,9 @@ I have therefore focused on below colors:
 
 - **Create profile**: user can sign up to the website and create their own user profile
 - **Favorite list**: user can save his/her favorite locations to a favorite list
+- **Near me**: user can pick the option near me and only get results close to where they are
+- **More questions**: more questions to filter further for the user, such as amount of people for example
+- **More options**: more options of activities to get suggestion for such as bar, club, sightseeing etc.
 
 ## Technologies Used
 
@@ -137,7 +140,15 @@ I have therefore focused on below colors:
 **Frameworks**
 
 - [Bootstrap](https://getbootstrap.com/)
-    - Main framework for the website in order to improve the structure of the website. Connected to HTML via CDN
+    - Framework used in order to improve the structure of the website. Connected to HTML via CDN
+
+- [jQuery](https://jquery.com/)
+    - Framework used with JavaScript in order to simplify the code. Connected to HTML via CDN
+
+**Version control**
+
+- [GitHub](https://github.com/)
+    - Used for version control of the project
 
 **Other**
 
@@ -151,7 +162,10 @@ I have therefore focused on below colors:
    - Used for all the icons in the project. Connected to HTML via CDN
 
 - [Unsplash](https://unsplash.com/)
-   - Used for all the images in the project except bride and groom images. Imported locally through assets/img
+   - Used for images in the project. Imported locally through assets/img
+
+- [Canva](https://www.canva.com/)
+   - Used for images and making icons. Imported locally through assets/img
    
 
 ## Testing 
