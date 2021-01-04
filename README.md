@@ -91,6 +91,17 @@ This is the flat version which is extra bold for extra power in the message, whi
 
 #### Colors
 
+The colors of this website is based around the background picture of a Tokyo after dawn as well as the Japanese flag.
+
+I have therefore focused on below colors:
+
+- #e74c3c
+- #4f97c7 
+- #ffffff
+- #000000
+
+![color palette](https://github.com/rudberga/CI-MS1-inspiry-tokyo/blob/master/assets/img/color-palette.png?raw=true "Color Palette")
+
 ## Features
 
  
