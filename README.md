@@ -96,11 +96,11 @@ The colors of this website is based around the background picture of a Tokyo aft
 I have therefore focused on below colors:
 
 - #e74c3c
-- #4f97c7 
 - #ffffff
+- #4f97c7 
 - #000000
 
-![color palette](https://github.com/rudberga/CI-MS1-inspiry-tokyo/blob/master/assets/img/color-palette.png?raw=true "Color Palette")
+![color palette](https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/color-palette.png?raw=true "Color Palette")
 
 ## Features
 
