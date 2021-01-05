@@ -176,11 +176,11 @@ I have done a lot of testing throughout the project and below you will find it i
 
 | Test | Method | Result |
 | ---- | ------ | ------ |
-| Buttons 1 | Entered website to index.html, pressed the main button which should open up modal with questions | Passed |
-| Buttons 2 | Entered modal in index.html, tried to press next without pressing any option on the 'cuisine' page, should not work | Passed |
-| Buttons 3 | Entered modal in index.html, tried to press next without pressing any option on the 'are you?' page, should not work | Passed |
-| Buttons 4 | Entered modal in index.html, tried to press next without pressing any option on the 'budget' page, should not work | Passed |
-| Buttons 5 | Entered modal in index.html, tried to press next with the option 'japanese' selected on the 'cuisine' page, should take me to next page | Passed |
+| Button 1 | Entered website to index.html, pressed the main button which should open up modal with questions | Passed |
+| Button 2 | Entered modal in index.html, tried to press next without pressing any option on the 'cuisine' page, should not work | Passed |
+| Button 3 | Entered modal in index.html, tried to press next without pressing any option on the 'are you?' page, should not work | Passed |
+| Button 4 | Entered modal in index.html, tried to press next without pressing any option on the 'budget' page, should not work | Passed |
+| Button 5 | Entered modal in index.html, tried to press next with the option 'japanese' selected on the 'cuisine' page, should take me to next page | Passed |
 | Buttons 6 | Entered modal in index.html, tried to press next with the option 'non-japanese' selected on the 'cuisine' page, should take me to next page | Passed |
 
 
