@@ -206,6 +206,8 @@ I have done a lot of testing throughout the project and below you will find it i
 | --- | -------- | -------------- |
 | User could pass through the whole modal without choosing a option, which lead them to an empty page for suggestion | Updated code in order to make the next button invalid until an option was chosen | Solved |
 | Restaurants from selections which should not show up as a suggestion did so in the end | Created temporary array where restaurants that was selected by the options in modal got pushed into, then in the end a loop to pick a restaurant out of only that array | Solved |
+| Modal was not reset when pressing finish button | Adjusted the code so that the arrays was emptied when pressing finish, in that way the user can go through the process again | Solved |
+| Space on the right of footer making an unwanted gap | removed right padding of modal button which added a space making width over 100% | Solved |
 
 ### Browser and screen size responsiveness
 
