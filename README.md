@@ -190,6 +190,8 @@ I have done a lot of testing throughout the project and below you will find it i
 | Buttons 12 | Entered modal in index.html, tried to press next with the option 'high' selected on the 'budget' page, should take me to the suggestion page | Passed |
 | Buttons 13 | Entered modal in index.html, tried to press back on each modal page, should be able to change answer and press next again | Passed |
 | Buttons 14 | Entered modal in index.html, tried to press finish on last suggestion page, should reset the modal if I try to open the modal again | Passed |
+| Suggestions 1 | Entered modal in index.html, went through all options and pick each possible combination, should get random restaurant suggestion based/filtered on the options chosen through my JavaScript code | Passed |
+| Suggestions 2 | Entered modal in index.html, went through all options and pick each possible combination, should get basic information and a map displayed for each restaurant | Passed |
 
 
 ### Bugs
