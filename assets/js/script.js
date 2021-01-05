@@ -275,7 +275,7 @@ function prep_modal() {
         }
 
         if (page_track <= pages.length - 2) {
-          //Push the selection in the Temporal Array (See HTML attribute "SUGGEST" on each selection)
+          //Push the selection in the Temporal Array (See HTML attribute "DATA-SUGGEST" on each selection)
           selections.push($(".selected").attr("data-suggest"));
           //Remove the selected class on every selection
           $(".radio").removeClass("selected");
