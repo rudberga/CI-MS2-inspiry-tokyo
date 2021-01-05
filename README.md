@@ -196,6 +196,7 @@ I have done a lot of testing throughout the project and below you will find it i
 | Suggestions 2 | Entered modal in index.html, went through all options and pick each possible combination, should get basic information and a map displayed for each restaurant | Passed |
 | Top list/information bar 1 | Hovered and clicked each section, should show another background color and info should show up below after pressing | Passed |
 | Top list/information bar 2 | Clicked another section after already clicked one, should change the information in content part | Passed |
+| Top list/information bar 3 | Pressed each link in top list which should lead me to the restaurants website in a new tab | Passed |
 | Social links 1 | Pressed social links on bottom of page, should take me to each website in a new tab | Passed |
 
 
