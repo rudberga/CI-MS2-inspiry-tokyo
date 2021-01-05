@@ -56,7 +56,7 @@ The design and layout of this website will be intentionally minimalistic and "si
 
 ### Skeleton
 
-[Wireframe](assets/docs/CI-MS2-inspiry-tokyo-wireframe.pdf)
+[Wireframe](assets/docs/ci-ms2-inspiry-tokyo-wireframe.pdf)
 
 5 pages included in the wireframe which are:
 - Landing page
@@ -64,6 +64,10 @@ The design and layout of this website will be intentionally minimalistic and "si
 - Step 2
 - Step 3
 - Result
+
+[Restaurants](assets/docs/restaurants-array.pdf)
+
+I compiled a file with all the restaurants I would pick for my project, in order to get a better overview as well as ticking off all the alternatives. Check the link above.
 
 ### Surface
 
