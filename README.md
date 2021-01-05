@@ -265,10 +265,12 @@ You could also have it open directly in Gitpod if you are using it, see below:
 
 ### Content
 
-- The text in the 'Top 3', 'Tokyo' and 'Food': [Lonely Planet](https://www.lonelyplanet.com/japan/tokyo)
+- The text in the 'Top 3', 'Tokyo' and 'Food' taken from [Lonely Planet](https://www.lonelyplanet.com/japan/tokyo)
 - The rest of the text on all the pages of the website was written by myself
 
 ### Media
+- Images on this website was imported from [Unsplash](https://unsplash.com/) and [Canva](https://www.canva.com/)
+- Icons and logo for this website made by myself through the editor in [Canva](https://www.canva.com/)
 
 ### Code
 
