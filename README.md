@@ -204,6 +204,8 @@ I have done a lot of testing throughout the project and below you will find it i
 
 | Bug | Solution | Current status |
 | --- | -------- | -------------- |
+| User could pass through the whole modal without choosing a option, which lead them to an empty page for suggestion | Updated code in order to make the next button invalid until an option was chosen | Solved |
+| Restaurants from selections which should not show up as a suggestion did so in the end | Created temporary array where restaurants that was selected by the options in modal got pushed into, then in the end a loop to pick a restaurant out of only that array | Solved |
 
 ### Browser and screen size responsiveness
 

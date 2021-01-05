@@ -1,4 +1,0 @@
-Using chrome for testing my code before I implement it into my script file in VScode.
-
-1. It is possible to go through the EAT modal without picking an option and you get an empty result. (ADD - Selected so it never is empty)
-2. Suggestions comes up even if they should not be able to do it, meat restaurant should not come up if we choose vegan etc.)
