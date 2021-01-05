@@ -10,7 +10,7 @@ var restaurants = [
     hours: "17:30 - 22:00",
     website: "<a href='https://hakushu-tokyo.business.site/' target='_blank'> Website </a>",
     address:
-      "17-10 Sakuragaokacho MCD Bldg. B1F, Shibuya 150-0031 Tokyo prefektur",
+      "17-10 Sakuragaokacho, MCD Bldg. B1F, Shibuya, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Hakushu%20Teppanyaki%2C%20%EF%BC%AD%EF%BC%A3%EF%BC%A4%E3%83%93%E3%83%AB%20B1F%2017%20Sakuragaokacho%2C%20Shibuya%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -21,7 +21,7 @@ var restaurants = [
     hours: "11:00 - 22:00",
     website: "<a href='https://www.genkisushi.co.jp/en/' target='_blank'> Website </a>",
     address:
-      "1F The 6th Central Bld.2-29-11 Dogenzaka,Shib uyaku, Tokyo 150-00 43",
+      "2-29-11 Dogenzaka, 1F The 6th Central Bld., Shibuya, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Uobei%2C%20%E7%AC%AC%E5%85%AD%E3%82%BB%E3%83%B3%E3%83%88%E3%83%A9%E3%83%AB%E3%83%93%E3%83%AB%201F%202%20Chome-29%20Dogenzaka%2C%20Shibuya%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -31,7 +31,7 @@ var restaurants = [
     cuisine: "Japanese fusion vegan",
     hours: "12:00 - 15:00<br>18:00 - 22:00",
     website: "<a href='https://saido.tokyo/' target='_blank'> Website </a>",
-    address: "Meguro-ku, Jiyūgaoka, 2 Chome−15-10, Tokyo, Japan, 152-0035",
+    address: "2−15-10, Jiyūgaoka, Meguro, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Saido%2C%202%20Chome-15-10%20Jiyugaoka%2C%20Meguro%20City%2C%20Tokyo%2C%20Japan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -41,7 +41,7 @@ var restaurants = [
     cuisine: "Falafel",
     hours: "11:00 - 18:00",
     website: "<a href='https://www.ballontokyo.com/' target='_blank'> Website </a>",
-    address: "Nakameguro, 3 Chome-2, Komazawa Dori, Tokyo, Japan, 153-0061",
+    address: "3-2, Komazawa Dori, Nakameguro, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Japan%2C%20Tokyo%2C%20Meguro%20City%2C%20Nakameguro%2C%203%20Chome%E2%88%922%E2%88%9219%20Ballon&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -51,7 +51,7 @@ var restaurants = [
     cuisine: "Falafel",
     hours: "11:00 - 19:30",
     website: "<a href='https://www.falafelbrothers.jp/' target='_blank'> Website </a>",
-    address: "1F Kadogan Bldg, 5-1-10 Roppongi, Minato, Tokyo, Japan, 106-0032",
+    address: "5-1-10 Roppongi, 1F Kadogan Bldg, Minato, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=%20FALAFEL%20BROTHERS%7C%E3%83%95%E3%82%A1%E3%83%A9%E3%83%95%E3%82%A7%E3%83%AB%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20Japan%2C%20Tokyo%2C%20Shibuya%20City%2C%20Hiroo1%20Chome%E2%88%921%E2%88%9236%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="123movies-i.net">123movies apk</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -62,7 +62,7 @@ var restaurants = [
     hours: "11:30 - 23:00",
     website: "<a href='https://www.huge.co.jp/restaurant/modern-mexicano/hacienda' target='_blank'> Website </a>",
     address:
-      "150-0033 Tokyo, Shibuya City, Sarugakucho, 10−1, Mansard Daikanyama, 9F",
+      "10−1, Sarugakucho, Shibuya, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=hacienda%20del%20cielo%20daikanyama&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -72,7 +72,7 @@ var restaurants = [
     cuisine: "Ramen",
     hours: "11:00 - 15:30",
     website: "<a href='https://twitter.com/Akihiro_Fukaya/' target='_blank'> Website </a>",
-    address: "6 Chome-11-１０ Minamiōi, Shinagawa-ku Tōkyō-to 140-0013, Japan",
+    address: "6-11-10 Minamiōi, Shinagawa, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=muginae%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -82,7 +82,7 @@ var restaurants = [
     cuisine: "Soba",
     hours: "11:30 - 20:30",
     website: "<a href='http://kyourakutei.com/' target='_blank'> Website </a>",
-    address: "162-0825 Tokyo, Shinjuku City, Kagurazaka, 3 Chome−6",
+    address: "3-6 Kagurazaka Shinjuku, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=kyourakutei%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -92,7 +92,7 @@ var restaurants = [
     cuisine: "Japanese fine dining",
     hours: "12:00 - 22:00",
     website: "<a href='http://www.narisawa-yoshihiro.com/' target='_blank'> Website </a>",
-    address: "2 Chome-6-15 Minamiaoyama, Minato City, Tokyo 107-0062",
+    address: "2-6-15 Minamiaoyama, Minato City, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=narisawa%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -102,7 +102,7 @@ var restaurants = [
     cuisine: "Vegetables",
     hours: "11:30 - 21:00",
     website: "<a href='https://www.ain-soph.jp/' target='_blank'> Website </a>",
-    address: "4 Chome-12-1 Ginza, Chuo City, Tokyo 104-0061",
+    address: "4-12-1 Ginza, Chuo City, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=ain%20soph%20ginza&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
@@ -112,21 +112,111 @@ var restaurants = [
     cuisine: "Burgers",
     hours: "11:00 - 21:00",
     website: "<a href='https://www.burgerstokyo.com/' target='_blank'> Website </a>",
-    address: "2 Chome-34-7 Kitazawa, Setagaya City, Tokyo 155-0031",
+    address: "2-34-7 Kitazawa, Setagaya City, Tokyo",
     map:
       '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=burgers%20tokyo%20setagaya&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://123movies-to.org">123movies</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
   },
+  //12
+  {
+    name: "KOTARO.",
+    cuisine: "Izakaya",
+    hours: "18:00 - 02:00",
+    website: "<a href='https://ameblo.jp/kotaro-info/' target='_blank'> Website </a>",
+    address: "28-2 Sakuragaokachō, Shibuya, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=kotaro%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //13
+  {
+    name: "TAMAWARAI.",
+    cuisine: "Soba",
+    hours: "11:30 - 20:00",
+    website: "<a href='https://tabelog.com/en/tokyo/A1306/A130601/13129390/' target='_blank'> Website </a>",
+    address: "5-23-3 Jingumae, Shibuya, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=tamawarai%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //14
+  {
+    name: "DEN.",
+    cuisine: "Kaiseki fusion",
+    hours: "18:00 - 20:00",
+    website: "<a href='https://www.jimbochoden.com/en/' target='_blank'> Website </a>",
+    address: "2-3-18 Jingumae, Shibuya, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=den%20restaurant%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //15
+  {
+    name: "YAKITORI IMAI.",
+    cuisine: "Yakitori",
+    hours: "12:00 - 22:30",
+    website: "<a href='http://www.yakitoriimai.jp/' target='_blank'> Website </a>",
+    address: "3 Jingumae, Shibuya, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=yakitori%20imai%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //16
+  {
+    name: "GEM BY MOTO.",
+    cuisine: "Sake restaurant",
+    hours: "13:00 - 21:00",
+    website: "<a href='http://fsknet.co.jp/impression/moto_ebisu.php' target='_blank'> Website </a>",
+    address: "1-30-9 Ebisu, Shibuya, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=gem%20by%20moto%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //17
+  {
+    name: "NOODLE STAND TOKYO.",
+    cuisine: "Vegan ramen",
+    hours: "11:30 - 21:00",
+    website: "<a href='https://www.noodlestandtokyo.com/' target='_blank'> Website </a>",
+    address: "1-23 Jingumae, Shibuya, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=noodle%20stand%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //18
+  {
+    name: "CITRON AOYAMA.",
+    cuisine: "Vegan/vegetarian café",
+    hours: "08:00 - 21:00",
+    website: "<a href='https://citron.co.jp/' target='_blank'> Website </a>",
+    address: "2−27−21 Minamiaoyama, Minato, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=citron%20aoyama%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //19
+  {
+    name: "L’EFFERVESCENCE.",
+    cuisine: "French",
+    hours: "11:30 - 23:00",
+    website: "<a href='http://www.leffervescence.jp/' target='_blank'> Website </a>",
+    address: "2-26-4 Nishiazabu, Minato, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=L%E2%80%99Effervescence%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  },
+  //20
+  {
+    name: "NAKIRYU.",
+    cuisine: "Ramen",
+    hours: "11:30 - 21:00",
+    website: "<a href='http://www12.plala.or.jp/nakiryu/' target='_blank'> Website </a>",
+    address: "2-34-4 Minamiotsuka, Toshima, Tokyo",
+    map:
+      '<div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=nakiryu%20tokyo&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://youtube-embed-code.com">youtube embed code</a></div><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div>',
+  }
 ];
 
 var suggestions = {
-  Japanese: "1,2,3,7,8,9,10",
-  NonJapanese: "4,5,6,11",
-  Meat: "1,2,6,7,8,9,11",
-  Vegetarian: "2,3,4,5,6,10",
-  Vegan: "3,4,5,10",
-  Low: "2,4,7,8,11",
-  Medium: "3,5,8",
-  High: "1,3,6,9,10",
+  Japanese: "1,2,3,7,8,9,10,12,13,14,15,16,17,20",
+  NonJapanese: "4,5,6,11,14,16,18,19",
+  Meat: "1,2,6,7,8,9,11,12,13,14,15,16,19,20",
+  Vegetarian: "2,3,4,5,6,10,12,13,14,15,16,17,18,19",
+  Vegan: "3,4,5,10,15,17,18",
+  Low: "2,4,7,8,11,12,13,15,17,20",
+  Medium: "3,5,8,12,14,15,16",
+  High: "1,3,6,9,10,18,19",
 };
 
 // Array to temporary store the values (So the last selection can be deleted in case "BACK" is pressed)
