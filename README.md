@@ -234,6 +234,10 @@ All errors and warnings are now gone.
 | ------- | -------- |
 | No relevant warnings and no errors showing. | - |
 
+### JSHint - [Link](https://jshint.com/)
+
+Pushed my JavaScript code through JSHint where no major issues showed up.
+
 ## Deployment
 
 In order to deploy my website I used GitHub pages. The deployment was made from the master branch and I did it through below steps:
