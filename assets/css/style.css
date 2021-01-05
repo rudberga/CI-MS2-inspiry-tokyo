@@ -4,47 +4,48 @@
 
 /*--------------------------------- Background */
 
-html, body {
-    height: 100%;
-    scroll-behavior: smooth;
+html,
+body {
+  height: 100%;
+  scroll-behavior: smooth;
 }
 
 /* CREDIT for image: https://unsplash.com/photos/IocJwyqRv3M */
 
 .background {
-    background: url(https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/tokyo-background.jpg?raw=true) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url(https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/tokyo-background.jpg?raw=true) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 /*--------------------------------- Inspiry & heart logo */
 
 .logo {
-    position:absolute;
-    left:2;
-    top:0;
-    max-width: 16em;
+  position: absolute;
+  left: 2;
+  top: 0;
+  max-width: 16em;
 }
 
 .logo-heart {
-    position:absolute;
-    right:30px;
-    top:25px;
-    font-size: 1.5em;
-    color: #fff;
+  position: absolute;
+  right: 30px;
+  top: 25px;
+  font-size: 1.5em;
+  color: #fff;
 }
 
 /*--------------------------------- Welcome */
 
 .text-welcome {
-    text-align: center;
-    margin-top: 90px;
-    font-family: 'Roboto', sans-serif;
-    color: #fff;
-    font-weight: 400;
-    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  text-align: center;
+  margin-top: 90px;
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-weight: 400;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
 .text-welcome-title {
@@ -61,74 +62,74 @@ html, body {
 }
 
 .text-tokyo {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #e74c3c 50%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #e74c3c 50%);
 }
 
 /*--------------------------------- Main button to enter modal */
 /* CREDIT for base of button: https://codepen.io/abhishek747/pen/BbWKVa */
 .main-btn {
-    z-index: 0;
-    width: 100%;
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    background-color: rgba(255, 255, 255, 0.651);
-    margin-top: 50px;
-    margin-bottom: 4.5em;
-  }
-  
-  .card {
-    margin: 30px auto;
-    width: 250px;
-    height: 120px;
-    border-radius: 14px;
-    box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.068), -5px -5px 30px 7px rgba(0, 0, 0, 0.062);
-    cursor: pointer;
-    transition: 0.4s;
-  }
-  
-  .card .card_image {
-    width: inherit;
-    height: inherit;
-    border-radius: 40px;
-  }
+  z-index: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: rgba(255, 255, 255, 0.651);
+  margin-top: 50px;
+  margin-bottom: 4.5em;
+}
 
-  .card_title {
-    background-color: #ffffff;
-    border-radius: 0;
-    margin-right: 60px;
-    margin-left: 60px;
-  }
+.card {
+  margin: 30px auto;
+  width: 250px;
+  height: 120px;
+  border-radius: 14px;
+  box-shadow: 5px 5px 30px 7px rgba(0, 0, 0, 0.068), -5px -5px 30px 7px rgba(0, 0, 0, 0.062);
+  cursor: pointer;
+  transition: 0.4s;
+}
 
-  .card_title .fa-heart {
-    color: #e74c3c;
-    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
-  }
+.card .card_image {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+}
 
-  .card_title .fa-utensils {
-    color: #afafaf;
-    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
-  }
-  
-  .card .card_title {
-    text-align: center;
-    font-size: 30px;
-    margin-top: -80px;
-    height: 40px;
-    color: black;
-  }
-  
-  .card:hover {
-    transform: scale(0.99, 0.99);
-    box-shadow: 3px 3px 15px 15px rgba(231, 77, 60, 0.192), 
-      -3px -3px 15px 15px rgba(231, 77, 60, 0.205);
-  }
+.card_title {
+  background-color: #ffffff;
+  border-radius: 0;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.card_title .fa-heart {
+  color: #e74c3c;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+}
+
+.card_title .fa-utensils {
+  color: #afafaf;
+  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+}
+
+.card .card_title {
+  text-align: center;
+  font-size: 30px;
+  margin-top: -80px;
+  height: 40px;
+  color: black;
+}
+
+.card:hover {
+  transform: scale(0.99, 0.99);
+  box-shadow: 3px 3px 15px 15px rgba(231, 77, 60, 0.192),
+    -3px -3px 15px 15px rgba(231, 77, 60, 0.205);
+}
 
 /*--------------------------------- Modal */
 /*CREDIT for base modal: https://codepen.io/Ayn_/pen/vmVKZV */
 
 #name {
-  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #e74c3c 50%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #e74c3c 50%);
 }
 
 #cuisine i {
@@ -239,7 +240,7 @@ html, body {
 /*CREDIT: https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation */
 
 .downArrow {
-	bottom: 100%;
+  bottom: 100%;
   left: 50%;
   font-size: 40px;
   margin-bottom: 2em;
@@ -255,52 +256,75 @@ html, body {
 }
 
 .bounce {
-	-moz-animation: bounce 3s infinite;
-	-webkit-animation: bounce 3s infinite;
-	animation: bounce 3s infinite;
+  -moz-animation: bounce 3s infinite;
+  -webkit-animation: bounce 3s infinite;
+  animation: bounce 3s infinite;
 }
 
 @-moz-keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
     -moz-transform: translateY(0);
     transform: translateY(0);
   }
+
   40% {
     -moz-transform: translateY(-30px);
     transform: translateY(-30px);
   }
+
   60% {
     -moz-transform: translateY(-15px);
     transform: translateY(-15px);
   }
 }
+
 @-webkit-keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
+
   40% {
     -webkit-transform: translateY(-30px);
     transform: translateY(-30px);
   }
+
   60% {
     -webkit-transform: translateY(-15px);
     transform: translateY(-15px);
   }
 }
+
 @keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
     -moz-transform: translateY(0);
     -ms-transform: translateY(0);
     -webkit-transform: translateY(0);
     transform: translateY(0);
   }
+
   40% {
     -moz-transform: translateY(-30px);
     -ms-transform: translateY(-30px);
     -webkit-transform: translateY(-30px);
     transform: translateY(-30px);
   }
+
   60% {
     -moz-transform: translateY(-15px);
     -ms-transform: translateY(-15px);
@@ -423,60 +447,64 @@ html, body {
 /*--------------------------------- Footer */
 
 .page-footer {
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    height: 35px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 35px;
 }
 
 .page-footer-bg-color {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 .socials-footer {
-    text-align: right;
-    font-size: 1.5em;
-    margin-right: 10px;
+  text-align: right;
+  font-size: 1.5em;
+  margin-right: 10px;
 }
 
 .socials-footer i {
-    margin-right: 7px;
-    margin-left: 7px;
-    margin-top: 5px;
-    color: #888888;
+  margin-right: 7px;
+  margin-left: 7px;
+  margin-top: 5px;
+  color: #888888;
 }
 
 /*--------------------------------- Hover effects */
 /*CREDIT for Hover over social links and heart icon: https://ianlunn.github.io/Hover/#effects*/
 
 .hvr-fade {
-    -webkit-transform: perspective(1px) translateZ(0);
-    transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-    -webkit-transition-duration: 0.3s;
-    transition-duration: 0.3s;
-    -webkit-transition-property: color, background-color;
-    transition-property: color, background-color;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
 }
 
-.hvr-fade:hover, .hvr-fade:focus, .hvr-fade:active {
-    background-color: rgba(255, 255, 255, 0);
-    color: #e74c3c;
+.hvr-fade:hover,
+.hvr-fade:focus,
+.hvr-fade:active {
+  background-color: rgba(255, 255, 255, 0);
+  color: #e74c3c;
 }
 
 .hvr-fade-heart {
-    -webkit-transform: perspective(1px) translateZ(0);
-    transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
-    -webkit-transition-duration: 0.3s;
-    transition-duration: 0.3s;
-    -webkit-transition-property: color, background-color;
-    transition-property: color, background-color;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
 }
 
-.hvr-fade-heart:hover, .hvr-fade-heart:focus, .hvr-fade-heart:active {
-    background-color: rgba(255, 255, 255, 0);
-    color: #e74c3c;
+.hvr-fade-heart:hover,
+.hvr-fade-heart:focus,
+.hvr-fade-heart:active {
+  background-color: rgba(255, 255, 255, 0);
+  color: #e74c3c;
 }
 
 /* CREDIT for hovering effect: https://css-tricks.com/having-fun-with-link-hover-effects/ */
@@ -487,10 +515,8 @@ html, body {
 
 .right-content h4 a {
   background:
-     linear-gradient(
-       to bottom, var(--mainColor) 0%,
-       #e74c3c 100%
-     );
+    linear-gradient(to bottom, var(--mainColor) 0%,
+      #e74c3c 100%);
   background-position: 0 100%;
   background-repeat: repeat-x;
   background-size: 4px 4px;
@@ -506,38 +532,38 @@ html, body {
 /*--------------------------------- Media queries */
 
 @media only screen and (max-width: 600px) {
-    .socials-footer {
-        text-align: center;
+  .socials-footer {
+    text-align: center;
   }
 }
 
 @media only screen and (max-width: 600px) {
   .text-welcome {
-      margin-top: 150px;
+    margin-top: 150px;
   }
 }
 
 @media all and (max-width: 600px) {
-    .card-list {
-      /* On small screens, we are no longer using row direction but column */
-      flex-direction: column;
-    }
+  .card-list {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
   }
+}
 
-  @media only screen and (max-width: 600px) {
-    .right-content {
-        margin-top: 10px;
-    }
+@media only screen and (max-width: 600px) {
+  .right-content {
+    margin-top: 10px;
   }
+}
 
-  @media (min-width: 768px) and (max-width: 1024px) {
-    .downArrow {
-      display: none;
-    }
+@media (min-width: 768px) and (max-width: 1024px) {
+  .downArrow {
+    display: none;
   }
+}
 
-  @media (min-width: 768px) and (max-width: 1024px) {
-    .toplist-narisawa {
-        margin-top: -10rem;
-    }
+@media (min-width: 768px) and (max-width: 1024px) {
+  .toplist-narisawa {
+    margin-top: -10rem;
   }
+}
