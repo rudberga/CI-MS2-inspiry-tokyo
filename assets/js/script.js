@@ -1,7 +1,6 @@
 //--------------------------------- Modal //
-//CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
-
-//Map codes from : https://www.embedgooglemap.net/
+// CREDIT base of modal: https://codepen.io/Ayn_/pen/vmVKZV
+// CREDIT maps: https://www.embedgooglemap.net/
 
 var restaurants = [
   //1
@@ -294,11 +293,9 @@ function suggest(index) {
   }
 }
 
-// Author: Nicholas Fazzolari
-// Basic tab switching code in pure ES6
 
-// TODO:   Add default tab open feature with an on off switch
-//         Make the event listener assignments general
+// Tabs top 3, Tokyo and food
+// Credit for tabs: https://codepen.io/nickfazzpdx/pen/MRWrjJ)
 
 function openTab(tabName) {
   let i;
@@ -313,7 +310,6 @@ function openTab(tabName) {
   document.getElementById(tabName).style.display = "flex";
 }
 
-// This needs to DRY'ed up so it can be used with a CMS
 let designLinkEl = document.getElementById("DesignLink");
 let progLinkEl = document.getElementById("ProgLink");
 let musicLinkEl = document.getElementById("SupportLink");

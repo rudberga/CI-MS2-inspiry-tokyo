@@ -274,5 +274,16 @@ You could also have it open directly in Gitpod if you are using it, see below:
 
 ### Code
 
+I have modified these code snippets in order for them to work in my project.
+- Hovering effect on links in top 3 list: [CSS Tricks](https://css-tricks.com/having-fun-with-link-hover-effects)
+- Button (card) format for the main button leading to modal: [abhishek747](https://codepen.io/abhishek747/pen/BbWKVa)
+- Multi page modal: [Ayn_](https://codepen.io/Ayn_/pen/vmVKZV)
+- Fade in effect on the 'Top 3', 'Tokyo' and 'Food' section: [Michal Snik](https://michalsnik.github.io/aos/)
+- Credit for layout 'Top 3', 'Tokyo' and 'Food' section: [nickfazzpdx](https://codepen.io/nickfazzpdx/pen/MRWrjJ)
+- Bouncing arrow down: [Codeconvey](https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation)
+- Hovering over social links and heart icon: [Ian Lunn](https://ianlunn.github.io/Hover/#effects)
+- Map codes: [Embedgooglemap](https://www.embedgooglemap.net/)
+- 
+
 ### Acknowledgements
 
