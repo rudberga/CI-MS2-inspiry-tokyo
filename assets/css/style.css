@@ -49,6 +49,10 @@ html, body {
     text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
+.text-welcome-title {
+  font-size: 50px;
+}
+
 .text-welcome-bottom {
   text-align: center;
   margin-top: 50px;
