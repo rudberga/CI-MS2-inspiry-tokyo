@@ -1,7 +1,5 @@
 /*--------------------------------- Fonts */
 
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
 /*--------------------------------- Background */
@@ -11,7 +9,7 @@ html, body {
     scroll-behavior: smooth;
 }
 
-/* CREDIT HERE for image */
+/* CREDIT for image: https://unsplash.com/photos/IocJwyqRv3M */
 
 .background {
     background: url(https://github.com/rudberga/CI-MS2-inspiry-tokyo/blob/master/assets/img/tokyo-background.jpg?raw=true) no-repeat center center fixed; 
@@ -62,24 +60,12 @@ html, body {
   text-shadow: 1.0px 1.0px 0px rgb(219, 219, 219);
 }
 
-.text-welcome-btn {
-    text-align: center;
-    margin-top: 50px;
-    font-family: 'Rubik', sans-serif;
-    font-weight: 400;
-}
-
-.welcome-btn-img {
-    max-width: 85%;
-    max-height: 85%;
-}
-
 .text-tokyo {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, #e74c3c 50%);
 }
 
-/*--------------------------------- Welcome cards */
-/* CREDIT for cards: https://codepen.io/abhishek747/pen/BbWKVa */
+/*--------------------------------- Main button to enter modal */
+/* CREDIT for base of button: https://codepen.io/abhishek747/pen/BbWKVa */
 .cards-list {
     z-index: 0;
     width: 100%;
@@ -106,13 +92,6 @@ html, body {
     height: inherit;
     border-radius: 40px;
   }
-  
-  .card .card_image img {
-    width: inherit;
-    height: inherit;
-    border-radius: 40px;
-    object-fit: cover;
-  }
 
   .card_title {
     background-color: #ffffff;
@@ -130,20 +109,12 @@ html, body {
     color: #afafaf;
     text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
   }
-
-  .card_title .fa-question {
-    color: #4f97c7;
-    text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
-  }
   
   .card .card_title {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
     font-size: 30px;
     margin-top: -80px;
     height: 40px;
-    background-color: ;
     color: black;
   }
   
@@ -151,14 +122,6 @@ html, body {
     transform: scale(0.99, 0.99);
     box-shadow: 3px 3px 15px 15px rgba(231, 77, 60, 0.192), 
       -3px -3px 15px 15px rgba(231, 77, 60, 0.205);
-  }
-  
-  .title-white {
-    color: white;
-  }
-  
-  .title-black {
-    color: black;
   }
 
 /*--------------------------------- Modal */
@@ -426,18 +389,6 @@ html, body {
   width: 512px;
 }
 
-.btn-toplist {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  font-family: 'Rubik', sans-serif;
-  background-color: rgba(255, 255, 255, 0.062);
-  border: 3px solid #fff;
-  color: #fff;
-  border-radius: 14px;
-  padding: 8px 20px;
-  font-size: 17px;
-}
-
 .btn-top-page {
   font-size: 40px;
   background-color: rgba(255, 255, 255, 0);
@@ -493,26 +444,6 @@ html, body {
     margin-left: 7px;
     margin-top: 5px;
     color: #888888;
-}
-
-
-
-/*--------------------------------- Top lists map */
-/*CREDIT for responsiveness: https://blog.duda.co/responsive-google-maps-for-your-website */
-
-.map-responsive {
-  overflow:hidden;
-  padding-bottom:56.25%;
-  position:relative;
-  height:0;
-}
-
-.map-responsive iframe{
-  left:0;
-  top:0;
-  height:100%;
-  width:100%;
-  position:absolute;
 }
 
 /*--------------------------------- Hover effects */

@@ -223,7 +223,7 @@ Have done extensive testing in Chrome DevTools, different browsers as well as on
 Pushed my HTML code through the validator and got following messages which I corrected:
 
 | Message | Solution |
-| ------- | ----- |
+| Error: Attribute suggest not allowed on element div at this point.| ----- |
 
 All errors and warnings are now gone.
 
