@@ -231,9 +231,8 @@ All errors and warnings are now gone.
 ### CSS Validator (W3C CSS) - [Link](https://jigsaw.w3.org/css-validator)
 
 | Message | Solution |
-| ------- | ----- |
-
-All errors and warnings are now gone.
+| ------- | -------- |
+No relevant warnings and no errors showing.
 
 ## Deployment
 

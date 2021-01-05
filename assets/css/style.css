@@ -94,24 +94,24 @@ body {
   border-radius: 40px;
 }
 
-.card_title {
+.main-btn-title {
   background-color: #ffffff;
   border-radius: 0;
   margin-right: 60px;
   margin-left: 60px;
 }
 
-.card_title .fa-heart {
+.main-btn-title .fa-heart {
   color: #e74c3c;
   text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
-.card_title .fa-utensils {
+.main-btn-title .fa-utensils {
   color: #afafaf;
   text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
 }
 
-.card .card_title {
+.card .main-btn-title {
   text-align: center;
   font-size: 30px;
   margin-top: -80px;
