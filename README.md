@@ -232,7 +232,7 @@ All errors and warnings are now gone.
 
 | Message | Solution |
 | ------- | -------- |
-No relevant warnings and no errors showing.
+| No relevant warnings and no errors showing. | - |
 
 ## Deployment
 
