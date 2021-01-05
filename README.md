@@ -176,12 +176,20 @@ I have done a lot of testing throughout the project and below you will find it i
 
 | Test | Method | Result |
 | ---- | ------ | ------ |
-| Button 1 | Entered website to index.html, pressed the main button which should open up modal with questions | Passed |
-| Button 2 | Entered modal in index.html, tried to press next without pressing any option on the 'cuisine' page, should not work | Passed |
-| Button 3 | Entered modal in index.html, tried to press next without pressing any option on the 'are you?' page, should not work | Passed |
-| Button 4 | Entered modal in index.html, tried to press next without pressing any option on the 'budget' page, should not work | Passed |
-| Button 5 | Entered modal in index.html, tried to press next with the option 'japanese' selected on the 'cuisine' page, should take me to next page | Passed |
+| Buttons 1 | Entered website to index.html, pressed the main button which should open up modal with questions | Passed |
+| Buttons 2 | Entered modal in index.html, tried to press next without pressing any option on the 'cuisine' page, should not work | Passed |
+| Buttons 3 | Entered modal in index.html, tried to press next without pressing any option on the 'are you?' page, should not work | Passed |
+| Buttons 4 | Entered modal in index.html, tried to press next without pressing any option on the 'budget' page, should not work | Passed |
+| Buttons 5 | Entered modal in index.html, tried to press next with the option 'japanese' selected on the 'cuisine' page, should take me to next page | Passed |
 | Buttons 6 | Entered modal in index.html, tried to press next with the option 'non-japanese' selected on the 'cuisine' page, should take me to next page | Passed |
+| Buttons 7 | Entered modal in index.html, tried to press next with the option 'meat-eater' selected on the 'are you?' page, should take me to next page | Passed |
+| Buttons 8 | Entered modal in index.html, tried to press next with the option 'vegetarian' selected on the 'are you?' page, should take me to next page | Passed |
+| Buttons 9 | Entered modal in index.html, tried to press next with the option 'vegan' selected on the 'are you?' page, should take me to next page | Passed |
+| Buttons 10 | Entered modal in index.html, tried to press next with the option 'low' selected on the 'budget' page, should take me to the suggestion page | Passed |
+| Buttons 11 | Entered modal in index.html, tried to press next with the option 'medium' selected on the 'budget' page, should take me to the suggestion page | Passed |
+| Buttons 12 | Entered modal in index.html, tried to press next with the option 'high' selected on the 'budget' page, should take me to the suggestion page | Passed |
+| Buttons 13 | Entered modal in index.html, tried to press back on each modal page, should be able to change answer and press next again | Passed |
+| Buttons 14 | Entered modal in index.html, tried to press finish on last suggestion page, should reset the modal if I try to open the modal again | Passed |
 
 
 ### Bugs
