@@ -29,7 +29,7 @@ var restaurants = [
   {
     name: "SAIDO.",
     cuisine: "Japanese fusion vegan",
-    hours: "12:00 - 15:00<br>18:00 - 22:00",
+    hours: "12:00 - 22:00",
     website: "<a href='https://saido.tokyo/' target='_blank'> Website </a>",
     address: "2−15-10, Jiyūgaoka, Meguro, Tokyo",
     map:
