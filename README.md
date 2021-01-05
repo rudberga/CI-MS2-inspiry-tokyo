@@ -265,6 +265,9 @@ You could also have it open directly in Gitpod if you are using it, see below:
 
 ### Content
 
+- The text in the 'Top 3', 'Tokyo' and 'Food': [Lonely Planet](https://www.lonelyplanet.com/japan/tokyo)
+- The rest of the text on all the pages of the website was written by myself
+
 ### Media
 
 ### Code
