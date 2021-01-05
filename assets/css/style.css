@@ -271,18 +271,20 @@ html, body {
 /*--------------------------------- Down arrow */
 /*CREDIT: https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation */
 
-.downArrow{
+.downArrow {
 	bottom: 100%;
   left: 50%;
-  color: #fff;
   font-size: 40px;
   margin-bottom: 2em;
 }
 
 .downArrow button {
   background-color: rgba(255, 255, 255, 0);
-  color: #ffffff;
   border: 0;
+}
+
+.fa-chevron-down {
+  color: #fff;
 }
 
 .bounce {
@@ -290,6 +292,7 @@ html, body {
 	-webkit-animation: bounce 3s infinite;
 	animation: bounce 3s infinite;
 }
+
 @-moz-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
     -moz-transform: translateY(0);
