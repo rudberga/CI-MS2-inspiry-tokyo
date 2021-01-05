@@ -283,7 +283,7 @@ I have modified these code snippets in order for them to work in my project.
 - Bouncing arrow down: [Codeconvey](https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation)
 - Hovering over social links and heart icon: [Ian Lunn](https://ianlunn.github.io/Hover/#effects)
 - Map codes: [Embedgooglemap](https://www.embedgooglemap.net/)
-- 
 
 ### Acknowledgements
 
+- I want to thank my mentor **Nishant Kumar** for the support and advice throughout the project
