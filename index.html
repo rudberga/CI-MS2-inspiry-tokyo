@@ -13,16 +13,14 @@
 </head>
 
 <body class="background">
-    <section>
-        <div class="row" id="top-page">
-            <div>
-                <img class="logo" src="assets/img/inspiry-logo.png" alt="inspiry logo">
-            </div>
-            <div>
-                <a href="https://google.com/" target="_blank"><i class="far fa-heart logo-heart hvr-fade-heart"></i></a>
-            </div>
+    <div class="row" id="top-page">
+        <div>
+            <img class="logo" src="assets/img/inspiry-logo.png" alt="inspiry logo">
         </div>
-    </section>
+        <div>
+            <a href="https://google.com/" target="_blank"><i class="far fa-heart logo-heart hvr-fade-heart"></i></a>
+        </div>
+      </div>
     <section class="container">
         <div class="row">
             <div class="col-8 offset-2 col-md-6 offset-md-3 text-welcome">
@@ -30,6 +28,7 @@
                 <h5 class="text-welcome-bottom">Sit back, relax and let us pick a restaurant for you. <br> Just click
                     the button below to get started!</h5>
             </div>
+        </div>
     </section>
     <!-- CREDIT for base of button: https://codepen.io/abhishek747/pen/BbWKVa -->
     <section>
@@ -48,9 +47,6 @@
         <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content">
-                    <div class="modal-header">
-                        <h4 class="modal-title" id="myModalLabel"></h4>
-                    </div>
                     <div class="modal-body">
                         <!-- Modal page 1 -->
                         <div class="modal-split">
@@ -147,13 +143,13 @@
                         </div>
                         <!-- Modal page 4 result-->
                         <div class="modal-split">
-                            <h3 id="name"></h3>
+                            <h3 id="name">Name</h3>
                             <div class="row">
                                 <div class="text col-12 col-lg-6">
-                                    <p id="cuisine"></p>
-                                    <p id="hours"></p>
-                                    <p id="website"></p>
-                                    <p id="address"></p>
+                                    <p id="cuisine">Cuisine</p>
+                                    <p id="hours">Hours</p>
+                                    <p id="website">Website</p>
+                                    <p id="address">Address</p>
                                 </div>
                                 <div class="col-12 col-lg-6" id="map"></div>
                             </div>
