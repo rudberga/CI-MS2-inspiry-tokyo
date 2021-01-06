@@ -565,3 +565,14 @@ body {
     margin-top: -10rem;
   }
 }
+
+/* CREDIT for centering icon: https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/ */
+
+@media only screen and (max-width: 600px) {
+  .logo {
+    position: fixed;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
