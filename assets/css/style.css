@@ -165,6 +165,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.close {
+  margin-right: ;
+}
+
 .cursor-pointer {
   cursor: pointer;
   color: #42A5F5
