@@ -2,6 +2,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
 
+/*--------------------------------- Variables */
+
+:root {
+  --mainColor: #e74c3c;
+  --white: #fff;
+  --textShadow: rgb(219, 219, 219);
+  --mainFont: 'Roboto', sans-serif;
+}
+
 /*--------------------------------- Background */
 
 html,
@@ -35,10 +44,10 @@ body {
 .text-welcome {
   text-align: center;
   margin-top: 90px;
-  font-family: 'Roboto', sans-serif;
-  color: #fff;
+  font-family: var(--mainFont);
+  color: var(--white);
   font-weight: 400;
-  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  text-shadow: 1.5px 1.5px 0px var(--textShadow);
 }
 
 .text-welcome-title {
@@ -48,14 +57,14 @@ body {
 .text-welcome-bottom {
   text-align: center;
   margin-top: 50px;
-  font-family: 'Roboto', sans-serif;
-  color: #fff;
+  font-family: var(--mainFont);
+  color: var(--white);
   font-weight: 400;
-  text-shadow: 1.0px 1.0px 0px rgb(219, 219, 219);
+  text-shadow: 1.0px 1.0px 0px var(--textShadow);
 }
 
 .text-tokyo {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #e74c3c 50%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, var(--mainColor) 50%);
 }
 
 /*--------------------------------- Main button to enter modal */
@@ -88,20 +97,20 @@ body {
 }
 
 .main-btn-title {
-  background-color: #ffffff;
+  background-color: var(--white);
   border-radius: 0;
   margin-right: 60px;
   margin-left: 60px;
 }
 
 .main-btn-title .fa-heart {
-  color: #e74c3c;
-  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  color: var(--mainColor);
+  text-shadow: 1.5px 1.5px 0px var(--textShadow);
 }
 
 .main-btn-title .fa-utensils {
   color: #afafaf;
-  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  text-shadow: 1.5px 1.5px 0px var(--textShadow);
 }
 
 .card .main-btn-title {
@@ -122,7 +131,7 @@ body {
 /*CREDIT for base modal: https://codepen.io/Ayn_/pen/vmVKZV */
 
 #name {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #e74c3c 50%);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, var(--mainColor) 50%);
 }
 
 #cuisine i {
@@ -147,18 +156,14 @@ body {
 
 .modal-content {
   background-color: rgb(255, 255, 255);
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--mainFont);
 }
 
 .modal-content h3 {
   margin-top: 20px;
   margin-bottom: 60px;
   text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
-
-.close {
-  margin-right: ;
+  font-family: var(--mainFont);
 }
 
 .cursor-pointer {
@@ -249,7 +254,7 @@ body {
 }
 
 .fa-chevron-down {
-  color: #fff;
+  color: var(--white);
 }
 
 .bounce {
@@ -335,12 +340,12 @@ body {
 
 .heading-design {
   cursor: pointer;
-  background-color: #fff;
+  background-color: var(--white);
   border-bottom: solid 1px #212121;
   padding: 2rem;
   transition: background-color 0.5s ease;
-  font-family: 'Roboto', sans-serif;
-  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  font-family: var(--mainFont);
+  text-shadow: 1.5px 1.5px 0px var(--textShadow);
 }
 
 .heading-design:hover {
@@ -350,13 +355,13 @@ body {
 
 .heading-prog {
   cursor: pointer;
-  background-color: #fff;
+  background-color: var(--white);
   border-bottom: solid 1px #212121;
   padding: 2rem;
   transition: background-color 0.5s ease;
   transition: color 0.5s ease;
-  font-family: 'Roboto', sans-serif;
-  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  font-family: var(--mainFont);
+  text-shadow: 1.5px 1.5px 0px var(--textShadow);
 }
 
 .heading-prog:hover {
@@ -367,38 +372,38 @@ body {
 
 .heading-music {
   cursor: pointer;
-  background-color: #fff;
+  background-color: var(--white);
   border-bottom: solid 1px #212121;
   padding: 2rem;
   transition: background-color 0.5s ease;
-  font-family: 'Roboto', sans-serif;
-  text-shadow: 1.5px 1.5px 0px rgb(219, 219, 219);
+  font-family: var(--mainFont);
+  text-shadow: 1.5px 1.5px 0px var(--textShadow);
 }
 
 .heading-music:hover {
-  background-color: #e74c3c;
-  border-bottom: solid 1px #e74c3c;
+  background-color: var(--mainColor);
+  border-bottom: solid 1px var(--mainColor);
 }
 
 .tab-content {
   display: none;
-  background-color: #fff;
+  background-color: var(--white);
   padding-bottom: 4em;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--mainFont);
 }
 
 .left-content {
   padding-left: 4rem;
   padding-top: 4rem;
   font-size: 3.75rem;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--mainFont);
 }
 
 .right-content {
   padding-left: 4rem;
   padding-top: 4rem;
   margin-top: 30px;
-  font-family: 'Roboto', sans-serif;
+  font-family: var(--mainFont);
 }
 
 .right-content h3 {
@@ -419,7 +424,7 @@ body {
 }
 
 .fa-chevron-up {
-  color: #fff;
+  color: var(--white);
 }
 
 .btn-toplist-esc {
@@ -428,7 +433,7 @@ body {
 }
 
 .top-list-section {
-  background-color: #ffffff;
+  background-color: var(--white);
 }
 
 .toplist-narisawa {
@@ -451,7 +456,7 @@ body {
 }
 
 .page-footer-bg-color {
-  background-color: #ffffff;
+  background-color: var(--white);
 }
 
 .socials-footer {
@@ -484,7 +489,7 @@ body {
 .hvr-fade:focus,
 .hvr-fade:active {
   background-color: rgba(255, 255, 255, 0);
-  color: #e74c3c;
+  color: var(--mainColor);
 }
 
 .hvr-fade-heart {
@@ -501,14 +506,10 @@ body {
 .hvr-fade-heart:focus,
 .hvr-fade-heart:active {
   background-color: rgba(255, 255, 255, 0);
-  color: #e74c3c;
+  color: var(--mainColor);
 }
 
 /* CREDIT for hovering effect: https://css-tricks.com/having-fun-with-link-hover-effects/ */
-
-:root {
-  --mainColor: #e74c3c;
-}
 
 .right-content h4 a {
   background:
@@ -542,7 +543,6 @@ body {
 
 @media all and (max-width: 600px) {
   .card-list {
-    /* On small screens, we are no longer using row direction but column */
     flex-direction: column;
   }
 }
