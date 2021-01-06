@@ -291,6 +291,7 @@ I have modified these code snippets in order for them to work in my project.
 - Bouncing arrow down: [Codeconvey](https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation)
 - Hovering over social links and heart icon: [Ian Lunn](https://ianlunn.github.io/Hover/#effects)
 - Map codes: [Embedgooglemap](https://www.embedgooglemap.net/)
+- Centering icon on mobile: [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
 
 ### Acknowledgements
 
