@@ -289,7 +289,7 @@ I have modified these code snippets in order for them to work in my project.
 - Fade in effect on the 'Top 3', 'Tokyo' and 'Food' section: [Michal Snik](https://michalsnik.github.io/aos/)
 - Credit for layout 'Top 3', 'Tokyo' and 'Food' section: [nickfazzpdx](https://codepen.io/nickfazzpdx/pen/MRWrjJ)
 - Bouncing arrow down: [Codeconvey](https://codepad.co/snippet/pure-css-arrow-down-bouncing-animation)
-- Hovering over social links and heart icon: [Ian Lunn](https://ianlunn.github.io/Hover/#effects)
+- Hovering over social links: [Ian Lunn](https://ianlunn.github.io/Hover/#effects)
 - Map codes: [Embedgooglemap](https://www.embedgooglemap.net/)
 - Centering icon on mobile: [CSS Tricks](https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/)
 
