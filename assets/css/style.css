@@ -30,14 +30,6 @@ body {
   max-width: 16em;
 }
 
-.logo-heart {
-  position: absolute;
-  right: 30px;
-  top: 25px;
-  font-size: 1.5em;
-  color: #fff;
-}
-
 /*--------------------------------- Welcome */
 
 .text-welcome {
