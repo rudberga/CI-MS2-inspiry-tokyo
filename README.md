@@ -56,7 +56,7 @@ The design and layout of this website will be intentionally minimalistic and "si
 
 ### Skeleton
 
-[Wireframe](assets/docs/ci-ms2-inspiry-tokyo-wireframe.pdf)
+[Wireframe](assets/docs/ci-ms2-inspiry-tokyo-wf.pdf)
 
 5 pages included in the wireframe which are:
 - Landing page
