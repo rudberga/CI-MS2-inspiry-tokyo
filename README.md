@@ -130,7 +130,7 @@ I have therefore focused on below colors:
 
 ## Technologies Used
 
-**Languages**
+**Languages / Markup**
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
     - Markup language
